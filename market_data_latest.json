@@ -1,0 +1,2579 @@
+{
+  "generated": "2026-05-31T19:37:24.028372",
+  "office": "Coldwell Banker Realty \u2014 Cambridge Office",
+  "analyst": "Paul Ventresca",
+  "period_30d": {
+    "SF_active": {
+      "label": "Single Family (Active)",
+      "count": 853,
+      "total_sold": 0,
+      "total_active": 623,
+      "median_sale": null,
+      "mean_sale": null,
+      "median_list": 1499000.0,
+      "median_ppsf": null,
+      "median_sp_lp": null,
+      "pct_over_ask": null,
+      "months_supply": null,
+      "avg_monthly": null,
+      "bedroom_breakdown": {
+        "1BR": {
+          "count": 3,
+          "median_price": 549900.0
+        },
+        "2BR": {
+          "count": 46,
+          "median_price": 686500.0
+        },
+        "3BR": {
+          "count": 230,
+          "median_price": 899000.0
+        },
+        "4BR": {
+          "count": 270,
+          "median_price": 1650000.0
+        },
+        "5BR": {
+          "count": 169,
+          "median_price": 2549000.0
+        },
+        "6BR": {
+          "count": 86,
+          "median_price": 2974500.0
+        }
+      },
+      "monthly_trend": {},
+      "top_towns": [
+        [
+          "Boston",
+          237
+        ],
+        [
+          "Newton",
+          159
+        ],
+        [
+          "Brookline",
+          68
+        ],
+        [
+          "Cambridge",
+          44
+        ],
+        [
+          "Medford",
+          41
+        ],
+        [
+          "Winchester",
+          39
+        ]
+      ],
+      "boston_neighborhoods": {
+        "West Roxbury": 29,
+        "Beacon Hill": 24,
+        "South Boston": 18,
+        "Hyde Park": 16,
+        "Charlestown": 14,
+        "Back Bay": 14,
+        "Jamaica Plain": 14,
+        "Roslindale": 13
+      }
+    },
+    "SF_sold": {
+      "label": "Single Family (Sold)",
+      "count": 887,
+      "total_sold": 298,
+      "total_active": 0,
+      "median_sale": 1100000.0,
+      "mean_sale": 1483409.86,
+      "median_list": 1100000.0,
+      "median_ppsf": 563.22,
+      "median_sp_lp": 102.1,
+      "pct_over_ask": 64.4,
+      "months_supply": 0.0,
+      "avg_monthly": 298,
+      "bedroom_breakdown": {
+        "1BR": {
+          "count": 3,
+          "median_price": 379900.0
+        },
+        "2BR": {
+          "count": 60,
+          "median_price": 627500.0
+        },
+        "3BR": {
+          "count": 343,
+          "median_price": 870000.0
+        },
+        "4BR": {
+          "count": 302,
+          "median_price": 1299000.0
+        },
+        "5BR": {
+          "count": 118,
+          "median_price": 2115000.0
+        },
+        "6BR": {
+          "count": 44,
+          "median_price": 2835000.0
+        }
+      },
+      "monthly_trend": {
+        "2026-05": 298
+      },
+      "top_towns": [
+        [
+          "Boston",
+          202
+        ],
+        [
+          "Newton",
+          151
+        ],
+        [
+          "Melrose",
+          51
+        ],
+        [
+          "Waltham",
+          51
+        ],
+        [
+          "Arlington",
+          50
+        ],
+        [
+          "Winchester",
+          46
+        ]
+      ],
+      "boston_neighborhoods": {
+        "West Roxbury": 46,
+        "Roslindale": 24,
+        "Jamaica Plain": 17,
+        "Charlestown": 15,
+        "South Boston": 12,
+        "Hyde Park": 10,
+        "Dorchester": 9,
+        "Brighton": 7
+      }
+    },
+    "CC_active": {
+      "label": "Condo (Active)",
+      "count": 2556,
+      "total_sold": 0,
+      "total_active": 2164,
+      "median_sale": null,
+      "mean_sale": null,
+      "median_list": 839850.0,
+      "median_ppsf": null,
+      "median_sp_lp": null,
+      "pct_over_ask": null,
+      "months_supply": null,
+      "avg_monthly": null,
+      "bedroom_breakdown": {
+        "1BR": {
+          "count": 610,
+          "median_price": 639000.0
+        },
+        "2BR": {
+          "count": 1090,
+          "median_price": 839850.0
+        },
+        "3BR": {
+          "count": 555,
+          "median_price": 1170000.0
+        },
+        "4BR": {
+          "count": 184,
+          "median_price": 1567500.0
+        },
+        "5BR": {
+          "count": 34,
+          "median_price": 1928500.0
+        },
+        "6BR": {
+          "count": 5,
+          "median_price": 6500000.0
+        }
+      },
+      "monthly_trend": {},
+      "top_towns": [
+        [
+          "Boston",
+          1694
+        ],
+        [
+          "Cambridge",
+          141
+        ],
+        [
+          "Brookline",
+          129
+        ],
+        [
+          "Somerville",
+          122
+        ],
+        [
+          "Newton",
+          104
+        ],
+        [
+          "Medford",
+          62
+        ]
+      ],
+      "boston_neighborhoods": {
+        "South End": 176,
+        "Back Bay": 161,
+        "South Boston": 137,
+        "Brighton": 99,
+        "Midtown": 81,
+        "Beacon Hill": 71,
+        "Jamaica Plain": 71,
+        "Waterfront": 70
+      }
+    },
+    "CC_sold": {
+      "label": "Condo (Sold)",
+      "count": 1808,
+      "total_sold": 620,
+      "total_active": 0,
+      "median_sale": 827500.0,
+      "mean_sale": 1088357.07,
+      "median_list": 829000.0,
+      "median_ppsf": 736.23,
+      "median_sp_lp": 100.0,
+      "pct_over_ask": 39.5,
+      "months_supply": 0.0,
+      "avg_monthly": 620,
+      "bedroom_breakdown": {
+        "1BR": {
+          "count": 340,
+          "median_price": 585564.0
+        },
+        "2BR": {
+          "count": 849,
+          "median_price": 799000.0
+        },
+        "3BR": {
+          "count": 420,
+          "median_price": 1099000.0
+        },
+        "4BR": {
+          "count": 137,
+          "median_price": 1450000.0
+        },
+        "5BR": {
+          "count": 25,
+          "median_price": 1575000.0
+        },
+        "6BR": {
+          "count": 1,
+          "median_price": 1795000.0
+        }
+      },
+      "monthly_trend": {
+        "2026-05": 620
+      },
+      "top_towns": [
+        [
+          "Boston",
+          964
+        ],
+        [
+          "Cambridge",
+          183
+        ],
+        [
+          "Brookline",
+          119
+        ],
+        [
+          "Somerville",
+          108
+        ],
+        [
+          "Newton",
+          96
+        ],
+        [
+          "Arlington",
+          53
+        ]
+      ],
+      "boston_neighborhoods": {
+        "South Boston": 112,
+        "South End": 89,
+        "Jamaica Plain": 78,
+        "Back Bay": 75,
+        "Brighton": 53,
+        "Dorchester": 44,
+        "Charlestown": 43,
+        "Beacon Hill": 40
+      }
+    },
+    "RN_active": {
+      "label": "Residential Rental (Active)",
+      "count": 4847,
+      "total_sold": 0,
+      "total_active": 4175,
+      "median_sale": null,
+      "mean_sale": null,
+      "median_list": 3500.0,
+      "median_ppsf": null,
+      "median_sp_lp": null,
+      "pct_over_ask": null,
+      "months_supply": null,
+      "avg_monthly": null,
+      "bedroom_breakdown": {
+        "1BR": {
+          "count": 971,
+          "median_price": 2800.0
+        },
+        "2BR": {
+          "count": 1406,
+          "median_price": 3300.0
+        },
+        "3BR": {
+          "count": 1195,
+          "median_price": 3780.0
+        },
+        "4BR": {
+          "count": 717,
+          "median_price": 4557.0
+        },
+        "5BR": {
+          "count": 175,
+          "median_price": 5500.0
+        },
+        "6BR": {
+          "count": 48,
+          "median_price": 6500.0
+        }
+      },
+      "monthly_trend": {},
+      "top_towns": [
+        [
+          "Boston",
+          2925
+        ],
+        [
+          "Cambridge",
+          350
+        ],
+        [
+          "Brookline",
+          279
+        ],
+        [
+          "Somerville",
+          231
+        ],
+        [
+          "Newton",
+          148
+        ],
+        [
+          "Medford",
+          129
+        ]
+      ],
+      "boston_neighborhoods": {
+        "Brighton": 200,
+        "South Boston": 166,
+        "Dorchester": 152,
+        "Allston": 134,
+        "Back Bay": 129,
+        "The Fenway": 117,
+        "South End": 109,
+        "Jamaica Plain": 109
+      }
+    },
+    "RN_sold": {
+      "label": "Residential Rental (Sold)",
+      "count": 18692,
+      "total_sold": 0,
+      "total_active": 0,
+      "median_sale": null,
+      "mean_sale": null,
+      "median_list": 3250.0,
+      "median_ppsf": null,
+      "median_sp_lp": null,
+      "pct_over_ask": null,
+      "months_supply": null,
+      "avg_monthly": null,
+      "bedroom_breakdown": {
+        "1BR": {
+          "count": 5060,
+          "median_price": 2750.0
+        },
+        "2BR": {
+          "count": 7072,
+          "median_price": 3250.0
+        },
+        "3BR": {
+          "count": 3611,
+          "median_price": 3800.0
+        },
+        "4BR": {
+          "count": 1380,
+          "median_price": 4698.0
+        },
+        "5BR": {
+          "count": 300,
+          "median_price": 6100.0
+        },
+        "6BR": {
+          "count": 65,
+          "median_price": 7000.0
+        }
+      },
+      "monthly_trend": {},
+      "top_towns": [
+        [
+          "Boston",
+          10469
+        ],
+        [
+          "Cambridge",
+          1694
+        ],
+        [
+          "Brookline",
+          1240
+        ],
+        [
+          "Somerville",
+          974
+        ],
+        [
+          "Newton",
+          680
+        ],
+        [
+          "Medford",
+          505
+        ]
+      ],
+      "boston_neighborhoods": {
+        "South Boston": 1062,
+        "Back Bay": 850,
+        "South End": 687,
+        "Brighton": 664,
+        "The Fenway": 442,
+        "Beacon Hill": 395,
+        "Dorchester": 385,
+        "Jamaica Plain": 380
+      }
+    },
+    "MF_active": {
+      "label": "Multi-Family (Active)",
+      "count": 563,
+      "total_sold": 0,
+      "total_active": 438,
+      "median_sale": null,
+      "mean_sale": null,
+      "median_list": 1475000.0,
+      "median_ppsf": null,
+      "median_sp_lp": null,
+      "pct_over_ask": null,
+      "months_supply": null,
+      "avg_monthly": null,
+      "bedroom_breakdown": {},
+      "monthly_trend": {},
+      "top_towns": [
+        [
+          "Boston",
+          285
+        ],
+        [
+          "Somerville",
+          63
+        ],
+        [
+          "Everett",
+          28
+        ],
+        [
+          "Cambridge",
+          28
+        ],
+        [
+          "Revere",
+          25
+        ],
+        [
+          "Medford",
+          22
+        ]
+      ],
+      "boston_neighborhoods": {
+        "Dorchester": 27,
+        "Brighton": 23,
+        "South Boston": 20,
+        "Jamaica Plain": 14,
+        "Roxbury": 13,
+        "05V": 13,
+        "Allston": 13,
+        "South End": 12
+      }
+    },
+    "MF_sold": {
+      "label": "Multi-Family (Sold)",
+      "count": 404,
+      "total_sold": 92,
+      "total_active": 0,
+      "median_sale": 1100000.0,
+      "mean_sale": 1197637.77,
+      "median_list": 1198500.0,
+      "median_ppsf": 380.63,
+      "median_sp_lp": 100.5,
+      "pct_over_ask": 58.7,
+      "months_supply": 0.0,
+      "avg_monthly": 92,
+      "bedroom_breakdown": {},
+      "monthly_trend": {
+        "2026-05": 92
+      },
+      "top_towns": [
+        [
+          "Boston",
+          171
+        ],
+        [
+          "Cambridge",
+          37
+        ],
+        [
+          "Somerville",
+          35
+        ],
+        [
+          "Malden",
+          24
+        ],
+        [
+          "Everett",
+          23
+        ],
+        [
+          "Revere",
+          20
+        ]
+      ],
+      "boston_neighborhoods": {
+        "Dorchester": 26,
+        "South Boston": 12,
+        "Jamaica Plain": 12,
+        "Roslindale": 11,
+        "Brighton": 7,
+        "West Roxbury": 5,
+        "East Boston": 5,
+        "05L": 4
+      }
+    }
+  },
+  "period_180d": {
+    "SF_active": {
+      "label": "Single Family (Active)",
+      "count": 853,
+      "total_sold": 0,
+      "total_active": 623,
+      "median_sale": null,
+      "mean_sale": null,
+      "median_list": 1499000.0,
+      "median_ppsf": null,
+      "median_sp_lp": null,
+      "pct_over_ask": null,
+      "months_supply": null,
+      "avg_monthly": null,
+      "bedroom_breakdown": {
+        "1BR": {
+          "count": 3,
+          "median_price": 549900.0
+        },
+        "2BR": {
+          "count": 46,
+          "median_price": 686500.0
+        },
+        "3BR": {
+          "count": 230,
+          "median_price": 899000.0
+        },
+        "4BR": {
+          "count": 270,
+          "median_price": 1650000.0
+        },
+        "5BR": {
+          "count": 169,
+          "median_price": 2549000.0
+        },
+        "6BR": {
+          "count": 86,
+          "median_price": 2974500.0
+        }
+      },
+      "monthly_trend": {},
+      "top_towns": [
+        [
+          "Boston",
+          237
+        ],
+        [
+          "Newton",
+          159
+        ],
+        [
+          "Brookline",
+          68
+        ],
+        [
+          "Cambridge",
+          44
+        ],
+        [
+          "Medford",
+          41
+        ],
+        [
+          "Winchester",
+          39
+        ]
+      ],
+      "boston_neighborhoods": {
+        "West Roxbury": 29,
+        "Beacon Hill": 24,
+        "South Boston": 18,
+        "Hyde Park": 16,
+        "Charlestown": 14,
+        "Back Bay": 14,
+        "Jamaica Plain": 14,
+        "Roslindale": 13
+      }
+    },
+    "SF_sold": {
+      "label": "Single Family (Sold)",
+      "count": 1905,
+      "total_sold": 1316,
+      "total_active": 0,
+      "median_sale": 1070000.0,
+      "mean_sale": 1467278.49,
+      "median_list": 1050000.0,
+      "median_ppsf": 539.29,
+      "median_sp_lp": 100.0,
+      "pct_over_ask": 49.7,
+      "months_supply": 0.0,
+      "avg_monthly": 219.3,
+      "bedroom_breakdown": {
+        "1BR": {
+          "count": 4,
+          "median_price": 344950.0
+        },
+        "2BR": {
+          "count": 135,
+          "median_price": 645000.0
+        },
+        "3BR": {
+          "count": 757,
+          "median_price": 850000.0
+        },
+        "4BR": {
+          "count": 606,
+          "median_price": 1279500.0
+        },
+        "5BR": {
+          "count": 267,
+          "median_price": 1975000.0
+        },
+        "6BR": {
+          "count": 101,
+          "median_price": 2699000.0
+        }
+      },
+      "monthly_trend": {
+        "2025-12": 258,
+        "2026-01": 172,
+        "2026-02": 150,
+        "2026-03": 191,
+        "2026-04": 218,
+        "2026-05": 327
+      },
+      "top_towns": [
+        [
+          "Boston",
+          447
+        ],
+        [
+          "Newton",
+          297
+        ],
+        [
+          "Melrose",
+          107
+        ],
+        [
+          "Winchester",
+          107
+        ],
+        [
+          "Medford",
+          105
+        ],
+        [
+          "Waltham",
+          102
+        ]
+      ],
+      "boston_neighborhoods": {
+        "West Roxbury": 85,
+        "Roslindale": 45,
+        "Hyde Park": 34,
+        "Jamaica Plain": 30,
+        "South Boston": 25,
+        "Charlestown": 24,
+        "Dorchester": 17,
+        "Brighton": 17
+      }
+    },
+    "CC_active": {
+      "label": "Condo (Active)",
+      "count": 2556,
+      "total_sold": 0,
+      "total_active": 2164,
+      "median_sale": null,
+      "mean_sale": null,
+      "median_list": 839850.0,
+      "median_ppsf": null,
+      "median_sp_lp": null,
+      "pct_over_ask": null,
+      "months_supply": null,
+      "avg_monthly": null,
+      "bedroom_breakdown": {
+        "1BR": {
+          "count": 610,
+          "median_price": 639000.0
+        },
+        "2BR": {
+          "count": 1090,
+          "median_price": 839850.0
+        },
+        "3BR": {
+          "count": 555,
+          "median_price": 1170000.0
+        },
+        "4BR": {
+          "count": 184,
+          "median_price": 1567500.0
+        },
+        "5BR": {
+          "count": 34,
+          "median_price": 1928500.0
+        },
+        "6BR": {
+          "count": 5,
+          "median_price": 6500000.0
+        }
+      },
+      "monthly_trend": {},
+      "top_towns": [
+        [
+          "Boston",
+          1694
+        ],
+        [
+          "Cambridge",
+          141
+        ],
+        [
+          "Brookline",
+          129
+        ],
+        [
+          "Somerville",
+          122
+        ],
+        [
+          "Newton",
+          104
+        ],
+        [
+          "Medford",
+          62
+        ]
+      ],
+      "boston_neighborhoods": {
+        "South End": 176,
+        "Back Bay": 161,
+        "South Boston": 137,
+        "Brighton": 99,
+        "Midtown": 81,
+        "Beacon Hill": 71,
+        "Jamaica Plain": 71,
+        "Waterfront": 70
+      }
+    },
+    "CC_sold": {
+      "label": "Condo (Sold)",
+      "count": 4091,
+      "total_sold": 2903,
+      "total_active": 0,
+      "median_sale": 780000.0,
+      "mean_sale": 1074504.95,
+      "median_list": 799000.0,
+      "median_ppsf": 698.08,
+      "median_sp_lp": 99.2,
+      "pct_over_ask": 28.0,
+      "months_supply": 0.0,
+      "avg_monthly": 483.8,
+      "bedroom_breakdown": {
+        "1BR": {
+          "count": 797,
+          "median_price": 570000.0
+        },
+        "2BR": {
+          "count": 1889,
+          "median_price": 760000.0
+        },
+        "3BR": {
+          "count": 962,
+          "median_price": 1062500.0
+        },
+        "4BR": {
+          "count": 291,
+          "median_price": 1375000.0
+        },
+        "5BR": {
+          "count": 55,
+          "median_price": 1795000.0
+        },
+        "6BR": {
+          "count": 8,
+          "median_price": 1617000.0
+        }
+      },
+      "monthly_trend": {
+        "2025-12": 487,
+        "2026-01": 379,
+        "2026-02": 343,
+        "2026-03": 457,
+        "2026-04": 570,
+        "2026-05": 667
+      },
+      "top_towns": [
+        [
+          "Boston",
+          2125
+        ],
+        [
+          "Cambridge",
+          336
+        ],
+        [
+          "Somerville",
+          249
+        ],
+        [
+          "Brookline",
+          245
+        ],
+        [
+          "Newton",
+          214
+        ],
+        [
+          "Arlington",
+          142
+        ]
+      ],
+      "boston_neighborhoods": {
+        "South Boston": 207,
+        "South End": 183,
+        "Back Bay": 179,
+        "Jamaica Plain": 155,
+        "Brighton": 122,
+        "Dorchester": 89,
+        "East Boston": 87,
+        "Beacon Hill": 87
+      }
+    },
+    "RN_active": {
+      "label": "Residential Rental (Active)",
+      "count": 4847,
+      "total_sold": 0,
+      "total_active": 4175,
+      "median_sale": null,
+      "mean_sale": null,
+      "median_list": 3500.0,
+      "median_ppsf": null,
+      "median_sp_lp": null,
+      "pct_over_ask": null,
+      "months_supply": null,
+      "avg_monthly": null,
+      "bedroom_breakdown": {
+        "1BR": {
+          "count": 971,
+          "median_price": 2800.0
+        },
+        "2BR": {
+          "count": 1406,
+          "median_price": 3300.0
+        },
+        "3BR": {
+          "count": 1195,
+          "median_price": 3780.0
+        },
+        "4BR": {
+          "count": 717,
+          "median_price": 4557.0
+        },
+        "5BR": {
+          "count": 175,
+          "median_price": 5500.0
+        },
+        "6BR": {
+          "count": 48,
+          "median_price": 6500.0
+        }
+      },
+      "monthly_trend": {},
+      "top_towns": [
+        [
+          "Boston",
+          2925
+        ],
+        [
+          "Cambridge",
+          350
+        ],
+        [
+          "Brookline",
+          279
+        ],
+        [
+          "Somerville",
+          231
+        ],
+        [
+          "Newton",
+          148
+        ],
+        [
+          "Medford",
+          129
+        ]
+      ],
+      "boston_neighborhoods": {
+        "Brighton": 200,
+        "South Boston": 166,
+        "Dorchester": 152,
+        "Allston": 134,
+        "Back Bay": 129,
+        "The Fenway": 117,
+        "South End": 109,
+        "Jamaica Plain": 109
+      }
+    },
+    "RN_sold": {
+      "label": "Residential Rental (Sold)",
+      "count": 18692,
+      "total_sold": 0,
+      "total_active": 0,
+      "median_sale": null,
+      "mean_sale": null,
+      "median_list": 3250.0,
+      "median_ppsf": null,
+      "median_sp_lp": null,
+      "pct_over_ask": null,
+      "months_supply": null,
+      "avg_monthly": null,
+      "bedroom_breakdown": {
+        "1BR": {
+          "count": 5060,
+          "median_price": 2750.0
+        },
+        "2BR": {
+          "count": 7072,
+          "median_price": 3250.0
+        },
+        "3BR": {
+          "count": 3611,
+          "median_price": 3800.0
+        },
+        "4BR": {
+          "count": 1380,
+          "median_price": 4698.0
+        },
+        "5BR": {
+          "count": 300,
+          "median_price": 6100.0
+        },
+        "6BR": {
+          "count": 65,
+          "median_price": 7000.0
+        }
+      },
+      "monthly_trend": {},
+      "top_towns": [
+        [
+          "Boston",
+          10469
+        ],
+        [
+          "Cambridge",
+          1694
+        ],
+        [
+          "Brookline",
+          1240
+        ],
+        [
+          "Somerville",
+          974
+        ],
+        [
+          "Newton",
+          680
+        ],
+        [
+          "Medford",
+          505
+        ]
+      ],
+      "boston_neighborhoods": {
+        "South Boston": 1062,
+        "Back Bay": 850,
+        "South End": 687,
+        "Brighton": 664,
+        "The Fenway": 442,
+        "Beacon Hill": 395,
+        "Dorchester": 385,
+        "Jamaica Plain": 380
+      }
+    },
+    "MF_active": {
+      "label": "Multi-Family (Active)",
+      "count": 563,
+      "total_sold": 0,
+      "total_active": 438,
+      "median_sale": null,
+      "mean_sale": null,
+      "median_list": 1475000.0,
+      "median_ppsf": null,
+      "median_sp_lp": null,
+      "pct_over_ask": null,
+      "months_supply": null,
+      "avg_monthly": null,
+      "bedroom_breakdown": {},
+      "monthly_trend": {},
+      "top_towns": [
+        [
+          "Boston",
+          285
+        ],
+        [
+          "Somerville",
+          63
+        ],
+        [
+          "Everett",
+          28
+        ],
+        [
+          "Cambridge",
+          28
+        ],
+        [
+          "Revere",
+          25
+        ],
+        [
+          "Medford",
+          22
+        ]
+      ],
+      "boston_neighborhoods": {
+        "Dorchester": 27,
+        "Brighton": 23,
+        "South Boston": 20,
+        "Jamaica Plain": 14,
+        "Roxbury": 13,
+        "05V": 13,
+        "Allston": 13,
+        "South End": 12
+      }
+    },
+    "MF_sold": {
+      "label": "Multi-Family (Sold)",
+      "count": 920,
+      "total_sold": 608,
+      "total_active": 0,
+      "median_sale": 1180750.0,
+      "mean_sale": 1366502.34,
+      "median_list": 1199000.0,
+      "median_ppsf": 397.42,
+      "median_sp_lp": 99.7,
+      "pct_over_ask": 40.1,
+      "months_supply": 0.0,
+      "avg_monthly": 101.3,
+      "bedroom_breakdown": {},
+      "monthly_trend": {
+        "2025-12": 148,
+        "2026-01": 97,
+        "2026-02": 68,
+        "2026-03": 98,
+        "2026-04": 96,
+        "2026-05": 101
+      },
+      "top_towns": [
+        [
+          "Boston",
+          383
+        ],
+        [
+          "Somerville",
+          85
+        ],
+        [
+          "Cambridge",
+          65
+        ],
+        [
+          "Malden",
+          60
+        ],
+        [
+          "Everett",
+          54
+        ],
+        [
+          "Revere",
+          51
+        ]
+      ],
+      "boston_neighborhoods": {
+        "Dorchester": 55,
+        "South Boston": 34,
+        "Jamaica Plain": 26,
+        "Brighton": 18,
+        "Roslindale": 18,
+        "East Boston": 15,
+        "Roxbury": 14,
+        "Mattapan": 10
+      }
+    }
+  },
+  "focus_towns": {
+    "Somerville": {
+      "neighborhoods": {},
+      "by_type": {
+        "SF": {
+          "name": "Single Family",
+          "active": {
+            "count": 22,
+            "total_sold": 0,
+            "total_active": 15,
+            "median_sale": null,
+            "mean_sale": null,
+            "median_list": 999000.0,
+            "median_ppsf": null,
+            "median_sp_lp": null,
+            "pct_over_ask": null,
+            "months_supply": null,
+            "avg_monthly": null,
+            "bedroom_breakdown": {
+              "2BR": {
+                "count": 4,
+                "median_price": 809500.0
+              },
+              "3BR": {
+                "count": 6,
+                "median_price": 862000.0
+              },
+              "4BR": {
+                "count": 6,
+                "median_price": 1525000.0
+              },
+              "5BR": {
+                "count": 4,
+                "median_price": 1975000.0
+              },
+              "6BR": {
+                "count": 2,
+                "median_price": 1747000.0
+              }
+            },
+            "monthly_trend": {},
+            "top_towns": [
+              [
+                "Somerville",
+                22
+              ]
+            ],
+            "boston_neighborhoods": {}
+          },
+          "sold": {
+            "count": 20,
+            "total_sold": 5,
+            "total_active": 0,
+            "median_sale": 1699000.0,
+            "mean_sale": 1679800.0,
+            "median_list": 1274950.0,
+            "median_ppsf": 687.92,
+            "median_sp_lp": 95.8,
+            "pct_over_ask": 20.0,
+            "months_supply": 0.0,
+            "avg_monthly": 5,
+            "bedroom_breakdown": {
+              "2BR": {
+                "count": 2,
+                "median_price": 1007000.0
+              },
+              "3BR": {
+                "count": 5,
+                "median_price": 1030000.0
+              },
+              "4BR": {
+                "count": 10,
+                "median_price": 2230000.0
+              },
+              "5BR": {
+                "count": 2,
+                "median_price": 1959500.0
+              },
+              "6BR": {
+                "count": 1,
+                "median_price": 1098000.0
+              }
+            },
+            "monthly_trend": {
+              "2026-05": 5
+            },
+            "top_towns": [
+              [
+                "Somerville",
+                20
+              ]
+            ],
+            "boston_neighborhoods": {}
+          }
+        },
+        "CC": {
+          "name": "Condo",
+          "active": {
+            "count": 122,
+            "total_sold": 0,
+            "total_active": 97,
+            "median_sale": null,
+            "mean_sale": null,
+            "median_list": 869950.0,
+            "median_ppsf": null,
+            "median_sp_lp": null,
+            "pct_over_ask": null,
+            "months_supply": null,
+            "avg_monthly": null,
+            "bedroom_breakdown": {
+              "1BR": {
+                "count": 24,
+                "median_price": 644000.0
+              },
+              "2BR": {
+                "count": 44,
+                "median_price": 812450.0
+              },
+              "3BR": {
+                "count": 36,
+                "median_price": 1187500.0
+              },
+              "4BR": {
+                "count": 17,
+                "median_price": 1499900.0
+              }
+            },
+            "monthly_trend": {},
+            "top_towns": [
+              [
+                "Somerville",
+                122
+              ]
+            ],
+            "boston_neighborhoods": {}
+          },
+          "sold": {
+            "count": 108,
+            "total_sold": 40,
+            "total_active": 0,
+            "median_sale": 992500.0,
+            "mean_sale": 1003167.62,
+            "median_list": 959500.0,
+            "median_ppsf": 777.31,
+            "median_sp_lp": 100.0,
+            "pct_over_ask": 42.5,
+            "months_supply": 0.0,
+            "avg_monthly": 40,
+            "bedroom_breakdown": {
+              "1BR": {
+                "count": 14,
+                "median_price": 582564.0
+              },
+              "2BR": {
+                "count": 45,
+                "median_price": 865000.0
+              },
+              "3BR": {
+                "count": 35,
+                "median_price": 1160000.0
+              },
+              "4BR": {
+                "count": 9,
+                "median_price": 1549900.0
+              },
+              "5BR": {
+                "count": 4,
+                "median_price": 1225000.0
+              }
+            },
+            "monthly_trend": {
+              "2026-05": 40
+            },
+            "top_towns": [
+              [
+                "Somerville",
+                108
+              ]
+            ],
+            "boston_neighborhoods": {}
+          }
+        },
+        "RN": {
+          "name": "Residential Rental",
+          "active": {
+            "count": 231,
+            "total_sold": 0,
+            "total_active": 194,
+            "median_sale": null,
+            "mean_sale": null,
+            "median_list": 3695.0,
+            "median_ppsf": null,
+            "median_sp_lp": null,
+            "pct_over_ask": null,
+            "months_supply": null,
+            "avg_monthly": null,
+            "bedroom_breakdown": {
+              "1BR": {
+                "count": 43,
+                "median_price": 2900.0
+              },
+              "2BR": {
+                "count": 64,
+                "median_price": 3400.0
+              },
+              "3BR": {
+                "count": 60,
+                "median_price": 4175.0
+              },
+              "4BR": {
+                "count": 46,
+                "median_price": 4800.0
+              },
+              "5BR": {
+                "count": 5,
+                "median_price": 5500.0
+              }
+            },
+            "monthly_trend": {},
+            "top_towns": [
+              [
+                "Somerville",
+                231
+              ]
+            ],
+            "boston_neighborhoods": {}
+          },
+          "sold": {
+            "count": 162,
+            "total_sold": 0,
+            "total_active": 0,
+            "median_sale": null,
+            "mean_sale": null,
+            "median_list": 3500.0,
+            "median_ppsf": null,
+            "median_sp_lp": null,
+            "pct_over_ask": null,
+            "months_supply": null,
+            "avg_monthly": null,
+            "bedroom_breakdown": {
+              "1BR": {
+                "count": 21,
+                "median_price": 3050.0
+              },
+              "2BR": {
+                "count": 63,
+                "median_price": 3300.0
+              },
+              "3BR": {
+                "count": 46,
+                "median_price": 3950.0
+              },
+              "4BR": {
+                "count": 20,
+                "median_price": 4725.0
+              },
+              "5BR": {
+                "count": 2,
+                "median_price": 6250.0
+              },
+              "6BR": {
+                "count": 1,
+                "median_price": 6300.0
+              }
+            },
+            "monthly_trend": {},
+            "top_towns": [
+              [
+                "Somerville",
+                162
+              ]
+            ],
+            "boston_neighborhoods": {}
+          }
+        },
+        "MF": {
+          "name": "Multi-Family",
+          "active": {
+            "count": 63,
+            "total_sold": 0,
+            "total_active": 56,
+            "median_sale": null,
+            "mean_sale": null,
+            "median_list": 1595000.0,
+            "median_ppsf": null,
+            "median_sp_lp": null,
+            "pct_over_ask": null,
+            "months_supply": null,
+            "avg_monthly": null,
+            "bedroom_breakdown": {},
+            "monthly_trend": {},
+            "top_towns": [
+              [
+                "Somerville",
+                63
+              ]
+            ],
+            "boston_neighborhoods": {}
+          },
+          "sold": {
+            "count": 35,
+            "total_sold": 7,
+            "total_active": 0,
+            "median_sale": 1300000.0,
+            "mean_sale": 1309000.0,
+            "median_list": 1399000.0,
+            "median_ppsf": 486.74,
+            "median_sp_lp": 98.7,
+            "pct_over_ask": 42.9,
+            "months_supply": 0.0,
+            "avg_monthly": 7,
+            "bedroom_breakdown": {},
+            "monthly_trend": {
+              "2026-05": 7
+            },
+            "top_towns": [
+              [
+                "Somerville",
+                35
+              ]
+            ],
+            "boston_neighborhoods": {}
+          }
+        }
+      }
+    },
+    "Cambridge": {
+      "neighborhoods": {},
+      "by_type": {
+        "SF": {
+          "name": "Single Family",
+          "active": {
+            "count": 44,
+            "total_sold": 0,
+            "total_active": 34,
+            "median_sale": null,
+            "mean_sale": null,
+            "median_list": 2885000.0,
+            "median_ppsf": null,
+            "median_sp_lp": null,
+            "pct_over_ask": null,
+            "months_supply": null,
+            "avg_monthly": null,
+            "bedroom_breakdown": {
+              "2BR": {
+                "count": 1,
+                "median_price": 1675000.0
+              },
+              "3BR": {
+                "count": 5,
+                "median_price": 1200000.0
+              },
+              "4BR": {
+                "count": 19,
+                "median_price": 2850000.0
+              },
+              "5BR": {
+                "count": 8,
+                "median_price": 3248500.0
+              },
+              "6BR": {
+                "count": 5,
+                "median_price": 4850000.0
+              }
+            },
+            "monthly_trend": {},
+            "top_towns": [
+              [
+                "Cambridge",
+                44
+              ]
+            ],
+            "boston_neighborhoods": {}
+          },
+          "sold": {
+            "count": 38,
+            "total_sold": 11,
+            "total_active": 0,
+            "median_sale": 2300000.0,
+            "mean_sale": 2164909.09,
+            "median_list": 2312500.0,
+            "median_ppsf": 860.59,
+            "median_sp_lp": 104.2,
+            "pct_over_ask": 81.8,
+            "months_supply": 0.0,
+            "avg_monthly": 11,
+            "bedroom_breakdown": {
+              "2BR": {
+                "count": 4,
+                "median_price": 1584500.0
+              },
+              "3BR": {
+                "count": 13,
+                "median_price": 1599777.0
+              },
+              "4BR": {
+                "count": 12,
+                "median_price": 2875000.0
+              },
+              "5BR": {
+                "count": 5,
+                "median_price": 3600000.0
+              },
+              "6BR": {
+                "count": 3,
+                "median_price": 2475000.0
+              }
+            },
+            "monthly_trend": {
+              "2026-05": 11
+            },
+            "top_towns": [
+              [
+                "Cambridge",
+                38
+              ]
+            ],
+            "boston_neighborhoods": {}
+          }
+        },
+        "CC": {
+          "name": "Condo",
+          "active": {
+            "count": 141,
+            "total_sold": 0,
+            "total_active": 121,
+            "median_sale": null,
+            "mean_sale": null,
+            "median_list": 850000.0,
+            "median_ppsf": null,
+            "median_sp_lp": null,
+            "pct_over_ask": null,
+            "months_supply": null,
+            "avg_monthly": null,
+            "bedroom_breakdown": {
+              "1BR": {
+                "count": 41,
+                "median_price": 649000.0
+              },
+              "2BR": {
+                "count": 58,
+                "median_price": 912000.0
+              },
+              "3BR": {
+                "count": 19,
+                "median_price": 1320000.0
+              },
+              "4BR": {
+                "count": 15,
+                "median_price": 2498000.0
+              },
+              "5BR": {
+                "count": 1,
+                "median_price": 3850000.0
+              }
+            },
+            "monthly_trend": {},
+            "top_towns": [
+              [
+                "Cambridge",
+                141
+              ]
+            ],
+            "boston_neighborhoods": {}
+          },
+          "sold": {
+            "count": 183,
+            "total_sold": 67,
+            "total_active": 0,
+            "median_sale": 1100000.0,
+            "mean_sale": 1296055.03,
+            "median_list": 999000.0,
+            "median_ppsf": 976.75,
+            "median_sp_lp": 100.0,
+            "pct_over_ask": 47.8,
+            "months_supply": 0.0,
+            "avg_monthly": 67,
+            "bedroom_breakdown": {
+              "1BR": {
+                "count": 33,
+                "median_price": 680000.0
+              },
+              "2BR": {
+                "count": 83,
+                "median_price": 975000.0
+              },
+              "3BR": {
+                "count": 45,
+                "median_price": 1300000.0
+              },
+              "4BR": {
+                "count": 12,
+                "median_price": 2247500.0
+              },
+              "5BR": {
+                "count": 5,
+                "median_price": 2645000.0
+              }
+            },
+            "monthly_trend": {
+              "2026-05": 67
+            },
+            "top_towns": [
+              [
+                "Cambridge",
+                183
+              ]
+            ],
+            "boston_neighborhoods": {}
+          }
+        },
+        "RN": {
+          "name": "Residential Rental",
+          "active": {
+            "count": 350,
+            "total_sold": 0,
+            "total_active": 293,
+            "median_sale": null,
+            "mean_sale": null,
+            "median_list": 3900.0,
+            "median_ppsf": null,
+            "median_sp_lp": null,
+            "pct_over_ask": null,
+            "months_supply": null,
+            "avg_monthly": null,
+            "bedroom_breakdown": {
+              "1BR": {
+                "count": 92,
+                "median_price": 2950.0
+              },
+              "2BR": {
+                "count": 105,
+                "median_price": 3950.0
+              },
+              "3BR": {
+                "count": 86,
+                "median_price": 4500.0
+              },
+              "4BR": {
+                "count": 33,
+                "median_price": 6600.0
+              },
+              "5BR": {
+                "count": 13,
+                "median_price": 7699.0
+              },
+              "6BR": {
+                "count": 1,
+                "median_price": 16750.0
+              }
+            },
+            "monthly_trend": {},
+            "top_towns": [
+              [
+                "Cambridge",
+                350
+              ]
+            ],
+            "boston_neighborhoods": {}
+          },
+          "sold": {
+            "count": 253,
+            "total_sold": 0,
+            "total_active": 0,
+            "median_sale": null,
+            "mean_sale": null,
+            "median_list": 3600.0,
+            "median_ppsf": null,
+            "median_sp_lp": null,
+            "pct_over_ask": null,
+            "months_supply": null,
+            "avg_monthly": null,
+            "bedroom_breakdown": {
+              "1BR": {
+                "count": 76,
+                "median_price": 3125.0
+              },
+              "2BR": {
+                "count": 102,
+                "median_price": 3800.0
+              },
+              "3BR": {
+                "count": 38,
+                "median_price": 4825.0
+              },
+              "4BR": {
+                "count": 16,
+                "median_price": 6500.0
+              },
+              "5BR": {
+                "count": 1,
+                "median_price": 6600.0
+              }
+            },
+            "monthly_trend": {},
+            "top_towns": [
+              [
+                "Cambridge",
+                253
+              ]
+            ],
+            "boston_neighborhoods": {}
+          }
+        },
+        "MF": {
+          "name": "Multi-Family",
+          "active": {
+            "count": 28,
+            "total_sold": 0,
+            "total_active": 23,
+            "median_sale": null,
+            "mean_sale": null,
+            "median_list": 2699500.0,
+            "median_ppsf": null,
+            "median_sp_lp": null,
+            "pct_over_ask": null,
+            "months_supply": null,
+            "avg_monthly": null,
+            "bedroom_breakdown": {},
+            "monthly_trend": {},
+            "top_towns": [
+              [
+                "Cambridge",
+                28
+              ]
+            ],
+            "boston_neighborhoods": {}
+          },
+          "sold": {
+            "count": 37,
+            "total_sold": 2,
+            "total_active": 0,
+            "median_sale": 1915000.0,
+            "mean_sale": 1915000.0,
+            "median_list": 2350000.0,
+            "median_ppsf": 679.87,
+            "median_sp_lp": 101.6,
+            "pct_over_ask": 50.0,
+            "months_supply": 0.0,
+            "avg_monthly": 2,
+            "bedroom_breakdown": {},
+            "monthly_trend": {
+              "2026-05": 2
+            },
+            "top_towns": [
+              [
+                "Cambridge",
+                37
+              ]
+            ],
+            "boston_neighborhoods": {}
+          }
+        }
+      }
+    },
+    "Melrose": {
+      "neighborhoods": {},
+      "by_type": {
+        "SF": {
+          "name": "Single Family",
+          "active": {
+            "count": 25,
+            "total_sold": 0,
+            "total_active": 12,
+            "median_sale": null,
+            "mean_sale": null,
+            "median_list": 899000.0,
+            "median_ppsf": null,
+            "median_sp_lp": null,
+            "pct_over_ask": null,
+            "months_supply": null,
+            "avg_monthly": null,
+            "bedroom_breakdown": {
+              "2BR": {
+                "count": 2,
+                "median_price": 562450.0
+              },
+              "3BR": {
+                "count": 12,
+                "median_price": 862450.0
+              },
+              "4BR": {
+                "count": 5,
+                "median_price": 1099000.0
+              },
+              "5BR": {
+                "count": 5,
+                "median_price": 1695000.0
+              }
+            },
+            "monthly_trend": {},
+            "top_towns": [
+              [
+                "Melrose",
+                25
+              ]
+            ],
+            "boston_neighborhoods": {}
+          },
+          "sold": {
+            "count": 51,
+            "total_sold": 19,
+            "total_active": 0,
+            "median_sale": 1031800.0,
+            "mean_sale": 1102563.16,
+            "median_list": 899900.0,
+            "median_ppsf": 525.08,
+            "median_sp_lp": 105.7,
+            "pct_over_ask": 78.9,
+            "months_supply": 0.0,
+            "avg_monthly": 19,
+            "bedroom_breakdown": {
+              "2BR": {
+                "count": 4,
+                "median_price": 544500.0
+              },
+              "3BR": {
+                "count": 23,
+                "median_price": 885000.0
+              },
+              "4BR": {
+                "count": 16,
+                "median_price": 1094500.0
+              },
+              "5BR": {
+                "count": 7,
+                "median_price": 1775000.0
+              }
+            },
+            "monthly_trend": {
+              "2026-05": 19
+            },
+            "top_towns": [
+              [
+                "Melrose",
+                51
+              ]
+            ],
+            "boston_neighborhoods": {}
+          }
+        },
+        "CC": {
+          "name": "Condo",
+          "active": {
+            "count": 16,
+            "total_sold": 0,
+            "total_active": 14,
+            "median_sale": null,
+            "mean_sale": null,
+            "median_list": 499900.0,
+            "median_ppsf": null,
+            "median_sp_lp": null,
+            "pct_over_ask": null,
+            "months_supply": null,
+            "avg_monthly": null,
+            "bedroom_breakdown": {
+              "1BR": {
+                "count": 4,
+                "median_price": 384000.0
+              },
+              "2BR": {
+                "count": 9,
+                "median_price": 529000.0
+              },
+              "3BR": {
+                "count": 2,
+                "median_price": 589450.0
+              }
+            },
+            "monthly_trend": {},
+            "top_towns": [
+              [
+                "Melrose",
+                16
+              ]
+            ],
+            "boston_neighborhoods": {}
+          },
+          "sold": {
+            "count": 8,
+            "total_sold": 3,
+            "total_active": 0,
+            "median_sale": 640000.0,
+            "mean_sale": 631666.67,
+            "median_list": 491950.0,
+            "median_ppsf": 449.12,
+            "median_sp_lp": 100.0,
+            "pct_over_ask": 66.7,
+            "months_supply": 0.0,
+            "avg_monthly": 3,
+            "bedroom_breakdown": {
+              "1BR": {
+                "count": 3,
+                "median_price": 405000.0
+              },
+              "2BR": {
+                "count": 2,
+                "median_price": 569000.0
+              },
+              "3BR": {
+                "count": 1,
+                "median_price": 640000.0
+              },
+              "4BR": {
+                "count": 1,
+                "median_price": 850000.0
+              }
+            },
+            "monthly_trend": {
+              "2026-05": 3
+            },
+            "top_towns": [
+              [
+                "Melrose",
+                8
+              ]
+            ],
+            "boston_neighborhoods": {}
+          }
+        },
+        "RN": {
+          "name": "Residential Rental",
+          "active": {
+            "count": 22,
+            "total_sold": 0,
+            "total_active": 21,
+            "median_sale": null,
+            "mean_sale": null,
+            "median_list": 2650.0,
+            "median_ppsf": null,
+            "median_sp_lp": null,
+            "pct_over_ask": null,
+            "months_supply": null,
+            "avg_monthly": null,
+            "bedroom_breakdown": {
+              "1BR": {
+                "count": 5,
+                "median_price": 1950.0
+              },
+              "2BR": {
+                "count": 10,
+                "median_price": 2650.0
+              },
+              "3BR": {
+                "count": 2,
+                "median_price": 4200.0
+              },
+              "4BR": {
+                "count": 3,
+                "median_price": 3950.0
+              },
+              "5BR": {
+                "count": 1,
+                "median_price": 4500.0
+              }
+            },
+            "monthly_trend": {},
+            "top_towns": [
+              [
+                "Melrose",
+                22
+              ]
+            ],
+            "boston_neighborhoods": {}
+          },
+          "sold": {
+            "count": 18,
+            "total_sold": 0,
+            "total_active": 0,
+            "median_sale": null,
+            "mean_sale": null,
+            "median_list": 2362.5,
+            "median_ppsf": null,
+            "median_sp_lp": null,
+            "pct_over_ask": null,
+            "months_supply": null,
+            "avg_monthly": null,
+            "bedroom_breakdown": {
+              "1BR": {
+                "count": 7,
+                "median_price": 2000.0
+              },
+              "2BR": {
+                "count": 6,
+                "median_price": 3100.0
+              },
+              "3BR": {
+                "count": 4,
+                "median_price": 3350.0
+              }
+            },
+            "monthly_trend": {},
+            "top_towns": [
+              [
+                "Melrose",
+                18
+              ]
+            ],
+            "boston_neighborhoods": {}
+          }
+        },
+        "MF": {
+          "name": "Multi-Family",
+          "active": {
+            "count": 3,
+            "total_sold": 0,
+            "total_active": 2,
+            "median_sale": null,
+            "mean_sale": null,
+            "median_list": 1249000.0,
+            "median_ppsf": null,
+            "median_sp_lp": null,
+            "pct_over_ask": null,
+            "months_supply": null,
+            "avg_monthly": null,
+            "bedroom_breakdown": {},
+            "monthly_trend": {},
+            "top_towns": [
+              [
+                "Melrose",
+                3
+              ]
+            ],
+            "boston_neighborhoods": {}
+          },
+          "sold": {
+            "count": 7,
+            "total_sold": 3,
+            "total_active": 0,
+            "median_sale": 820000.0,
+            "mean_sale": 985333.33,
+            "median_list": 1099000.0,
+            "median_ppsf": 437.05,
+            "median_sp_lp": 102.6,
+            "pct_over_ask": 100.0,
+            "months_supply": 0.0,
+            "avg_monthly": 3,
+            "bedroom_breakdown": {},
+            "monthly_trend": {
+              "2026-05": 3
+            },
+            "top_towns": [
+              [
+                "Melrose",
+                7
+              ]
+            ],
+            "boston_neighborhoods": {}
+          }
+        }
+      }
+    },
+    "Boston": {
+      "neighborhoods": {
+        "Other": {
+          "count": 504,
+          "median_price": 4500.0
+        },
+        "South Boston": {
+          "count": 344,
+          "median_price": 5350.0
+        },
+        "Back Bay": {
+          "count": 221,
+          "median_price": 6200.0
+        },
+        "South End": {
+          "count": 194,
+          "median_price": 6000.0
+        },
+        "Jamaica Plain": {
+          "count": 183,
+          "median_price": 609000.0
+        },
+        "Brighton": {
+          "count": 179,
+          "median_price": 4000.0
+        },
+        "Dorchester": {
+          "count": 128,
+          "median_price": 554450.0
+        },
+        "Beacon Hill": {
+          "count": 111,
+          "median_price": 4700.0
+        },
+        "Charlestown": {
+          "count": 105,
+          "median_price": 775000.0
+        },
+        "The Fenway": {
+          "count": 99,
+          "median_price": 3350.0
+        },
+        "North End": {
+          "count": 89,
+          "median_price": 5250.0
+        },
+        "Roslindale": {
+          "count": 87,
+          "median_price": 625000.0
+        }
+      },
+      "by_type": {
+        "SF": {
+          "name": "Single Family",
+          "active": {
+            "count": 237,
+            "total_sold": 0,
+            "total_active": 181,
+            "median_sale": null,
+            "mean_sale": null,
+            "median_list": 1169000.0,
+            "median_ppsf": null,
+            "median_sp_lp": null,
+            "pct_over_ask": null,
+            "months_supply": null,
+            "avg_monthly": null,
+            "bedroom_breakdown": {
+              "2BR": {
+                "count": 14,
+                "median_price": 810000.0
+              },
+              "3BR": {
+                "count": 78,
+                "median_price": 939500.0
+              },
+              "4BR": {
+                "count": 82,
+                "median_price": 1349500.0
+              },
+              "5BR": {
+                "count": 39,
+                "median_price": 2950000.0
+              },
+              "6BR": {
+                "count": 14,
+                "median_price": 1545000.0
+              }
+            },
+            "monthly_trend": {},
+            "top_towns": [
+              [
+                "Boston",
+                237
+              ]
+            ],
+            "boston_neighborhoods": {
+              "West Roxbury": 29,
+              "Beacon Hill": 24,
+              "South Boston": 18,
+              "Hyde Park": 16,
+              "Charlestown": 14,
+              "Back Bay": 14,
+              "Jamaica Plain": 14,
+              "Roslindale": 13
+            }
+          },
+          "sold": {
+            "count": 202,
+            "total_sold": 66,
+            "total_active": 0,
+            "median_sale": 900000.0,
+            "mean_sale": 1401610.62,
+            "median_list": 899000.0,
+            "median_ppsf": 567.0,
+            "median_sp_lp": 101.6,
+            "pct_over_ask": 62.1,
+            "months_supply": 0.0,
+            "avg_monthly": 66,
+            "bedroom_breakdown": {
+              "2BR": {
+                "count": 16,
+                "median_price": 611950.0
+              },
+              "3BR": {
+                "count": 88,
+                "median_price": 849950.0
+              },
+              "4BR": {
+                "count": 78,
+                "median_price": 1075000.0
+              },
+              "5BR": {
+                "count": 16,
+                "median_price": 1937000.0
+              },
+              "6BR": {
+                "count": 3,
+                "median_price": 1650000.0
+              }
+            },
+            "monthly_trend": {
+              "2026-05": 66
+            },
+            "top_towns": [
+              [
+                "Boston",
+                202
+              ]
+            ],
+            "boston_neighborhoods": {
+              "West Roxbury": 46,
+              "Roslindale": 24,
+              "Jamaica Plain": 17,
+              "Charlestown": 15,
+              "South Boston": 12,
+              "Hyde Park": 10,
+              "Dorchester": 9,
+              "Brighton": 7
+            }
+          }
+        },
+        "CC": {
+          "name": "Condo",
+          "active": {
+            "count": 1694,
+            "total_sold": 0,
+            "total_active": 1464,
+            "median_sale": null,
+            "mean_sale": null,
+            "median_list": 866900.0,
+            "median_ppsf": null,
+            "median_sp_lp": null,
+            "pct_over_ask": null,
+            "months_supply": null,
+            "avg_monthly": null,
+            "bedroom_breakdown": {
+              "1BR": {
+                "count": 438,
+                "median_price": 695000.0
+              },
+              "2BR": {
+                "count": 747,
+                "median_price": 930000.0
+              },
+              "3BR": {
+                "count": 365,
+                "median_price": 1299000.0
+              },
+              "4BR": {
+                "count": 68,
+                "median_price": 1574500.0
+              },
+              "5BR": {
+                "count": 11,
+                "median_price": 2250000.0
+              },
+              "6BR": {
+                "count": 3,
+                "median_price": 9899000.0
+              }
+            },
+            "monthly_trend": {},
+            "top_towns": [
+              [
+                "Boston",
+                1694
+              ]
+            ],
+            "boston_neighborhoods": {
+              "South End": 176,
+              "Back Bay": 161,
+              "South Boston": 137,
+              "Brighton": 99,
+              "Midtown": 81,
+              "Beacon Hill": 71,
+              "Jamaica Plain": 71,
+              "Waterfront": 70
+            }
+          },
+          "sold": {
+            "count": 964,
+            "total_sold": 316,
+            "total_active": 0,
+            "median_sale": 797500.0,
+            "mean_sale": 1179045.63,
+            "median_list": 819000.0,
+            "median_ppsf": 799.95,
+            "median_sp_lp": 100.0,
+            "pct_over_ask": 34.5,
+            "months_supply": 0.0,
+            "avg_monthly": 316,
+            "bedroom_breakdown": {
+              "1BR": {
+                "count": 210,
+                "median_price": 634500.0
+              },
+              "2BR": {
+                "count": 491,
+                "median_price": 835000.0
+              },
+              "3BR": {
+                "count": 201,
+                "median_price": 1050000.0
+              },
+              "4BR": {
+                "count": 38,
+                "median_price": 1277000.0
+              },
+              "5BR": {
+                "count": 2,
+                "median_price": 987000.0
+              }
+            },
+            "monthly_trend": {
+              "2026-05": 316
+            },
+            "top_towns": [
+              [
+                "Boston",
+                964
+              ]
+            ],
+            "boston_neighborhoods": {
+              "South Boston": 112,
+              "South End": 89,
+              "Jamaica Plain": 78,
+              "Back Bay": 75,
+              "Brighton": 53,
+              "Dorchester": 44,
+              "Charlestown": 43,
+              "Beacon Hill": 40
+            }
+          }
+        },
+        "RN": {
+          "name": "Residential Rental",
+          "active": {
+            "count": 2925,
+            "total_sold": 0,
+            "total_active": 2555,
+            "median_sale": null,
+            "mean_sale": null,
+            "median_list": 3500.0,
+            "median_ppsf": null,
+            "median_sp_lp": null,
+            "pct_over_ask": null,
+            "months_supply": null,
+            "avg_monthly": null,
+            "bedroom_breakdown": {
+              "1BR": {
+                "count": 591,
+                "median_price": 2900.0
+              },
+              "2BR": {
+                "count": 820,
+                "median_price": 3400.0
+              },
+              "3BR": {
+                "count": 723,
+                "median_price": 3600.0
+              },
+              "4BR": {
+                "count": 448,
+                "median_price": 4405.0
+              },
+              "5BR": {
+                "count": 100,
+                "median_price": 5500.0
+              },
+              "6BR": {
+                "count": 23,
+                "median_price": 6000.0
+              }
+            },
+            "monthly_trend": {},
+            "top_towns": [
+              [
+                "Boston",
+                2925
+              ]
+            ],
+            "boston_neighborhoods": {
+              "Brighton": 200,
+              "South Boston": 166,
+              "Dorchester": 152,
+              "Allston": 134,
+              "Back Bay": 129,
+              "The Fenway": 117,
+              "South End": 109,
+              "Jamaica Plain": 109
+            }
+          },
+          "sold": {
+            "count": 1737,
+            "total_sold": 0,
+            "total_active": 0,
+            "median_sale": null,
+            "mean_sale": null,
+            "median_list": 3500.0,
+            "median_ppsf": null,
+            "median_sp_lp": null,
+            "pct_over_ask": null,
+            "months_supply": null,
+            "avg_monthly": null,
+            "bedroom_breakdown": {
+              "1BR": {
+                "count": 488,
+                "median_price": 3000.0
+              },
+              "2BR": {
+                "count": 688,
+                "median_price": 3700.0
+              },
+              "3BR": {
+                "count": 298,
+                "median_price": 4000.0
+              },
+              "4BR": {
+                "count": 118,
+                "median_price": 4998.0
+              },
+              "5BR": {
+                "count": 13,
+                "median_price": 6000.0
+              },
+              "6BR": {
+                "count": 6,
+                "median_price": 6600.0
+              }
+            },
+            "monthly_trend": {},
+            "top_towns": [
+              [
+                "Boston",
+                1737
+              ]
+            ],
+            "boston_neighborhoods": {
+              "South Boston": 208,
+              "Back Bay": 142,
+              "Brighton": 112,
+              "South End": 103,
+              "The Fenway": 86,
+              "Jamaica Plain": 76,
+              "North End": 75,
+              "Allston": 66
+            }
+          }
+        },
+        "MF": {
+          "name": "Multi-Family",
+          "active": {
+            "count": 285,
+            "total_sold": 0,
+            "total_active": 225,
+            "median_sale": null,
+            "mean_sale": null,
+            "median_list": 1549000.0,
+            "median_ppsf": null,
+            "median_sp_lp": null,
+            "pct_over_ask": null,
+            "months_supply": null,
+            "avg_monthly": null,
+            "bedroom_breakdown": {},
+            "monthly_trend": {},
+            "top_towns": [
+              [
+                "Boston",
+                285
+              ]
+            ],
+            "boston_neighborhoods": {
+              "Dorchester": 27,
+              "Brighton": 23,
+              "South Boston": 20,
+              "Jamaica Plain": 14,
+              "Roxbury": 13,
+              "05V": 13,
+              "Allston": 13,
+              "South End": 12
+            }
+          },
+          "sold": {
+            "count": 171,
+            "total_sold": 42,
+            "total_active": 0,
+            "median_sale": 1082500.0,
+            "mean_sale": 1170535.71,
+            "median_list": 1189000.0,
+            "median_ppsf": 363.21,
+            "median_sp_lp": 100.1,
+            "pct_over_ask": 54.8,
+            "months_supply": 0.0,
+            "avg_monthly": 42,
+            "bedroom_breakdown": {},
+            "monthly_trend": {
+              "2026-05": 42
+            },
+            "top_towns": [
+              [
+                "Boston",
+                171
+              ]
+            ],
+            "boston_neighborhoods": {
+              "Dorchester": 26,
+              "South Boston": 12,
+              "Jamaica Plain": 12,
+              "Roslindale": 11,
+              "Brighton": 7,
+              "West Roxbury": 5,
+              "East Boston": 5,
+              "05L": 4
+            }
+          }
+        }
+      }
+    }
+  }
+}
