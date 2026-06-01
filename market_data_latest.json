@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-01T08:20:57.672023",
+  "generated": "2026-06-01T08:39:47.774271",
   "data_period": "30-day primary / 180-day context",
   "office": "Coldwell Banker Realty \u2014 Cambridge Office",
   "analyst": "Paul Ventresca",
@@ -137,7 +137,7 @@
       }
     },
     "combined_active": {
-      "count": 8649,
+      "count": 8631,
       "total_sold": 0,
       "total_active": 7655,
       "sale_price": {
@@ -197,51 +197,51 @@
       "top_towns": [
         [
           "Boston",
-          5019
+          5018
         ],
         [
           "Cambridge",
-          556
+          555
         ],
         [
           "Brookline",
-          486
+          485
         ],
         [
           "Somerville",
-          431
+          430
         ],
         [
           "Newton",
-          421
+          420
         ],
         [
           "Medford",
-          248
+          247
         ],
         [
           "Waltham",
-          199
+          198
         ],
         [
           "Revere",
-          180
+          179
         ],
         [
           "Malden",
-          154
+          153
         ],
         [
           "Everett",
-          150
+          149
         ],
         [
           "Watertown",
-          137
+          136
         ],
         [
           "Arlington",
-          131
+          130
         ]
       ],
       "boston_neighborhoods": {
@@ -257,203 +257,6 @@
     }
   },
   "by_property_type_30d": {
-    "ref_towns": {
-      "label": "ref (Sold/UAG)",
-      "count": 18,
-      "total_sold": 0,
-      "total_active": 0,
-      "sale_price": {
-        "median": null,
-        "mean": null,
-        "min": null,
-        "max": null,
-        "p25": null,
-        "p75": null,
-        "stdev": null
-      },
-      "list_price": {
-        "median": null,
-        "mean": null
-      },
-      "price_per_sqft": {
-        "median": null,
-        "mean": null,
-        "p25": null,
-        "p75": null
-      },
-      "sqft": {
-        "median": null,
-        "mean": null
-      },
-      "sp_lp_ratio": null,
-      "pct_over_ask": null,
-      "months_supply": null,
-      "avg_monthly_sales": null,
-      "bedroom_breakdown": {},
-      "monthly_trend_12mo": {},
-      "top_towns": [
-        [
-          "Boston",
-          1
-        ],
-        [
-          "Brookline",
-          1
-        ],
-        [
-          "Cambridge",
-          1
-        ],
-        [
-          "Everett",
-          1
-        ],
-        [
-          "Malden",
-          1
-        ],
-        [
-          "Medford",
-          1
-        ],
-        [
-          "Somerville",
-          1
-        ],
-        [
-          "Revere",
-          1
-        ],
-        [
-          "Chelsea",
-          1
-        ],
-        [
-          "Newton",
-          1
-        ],
-        [
-          "Waltham",
-          1
-        ],
-        [
-          "Watertown",
-          1
-        ]
-      ],
-      "boston_neighborhoods": {}
-    },
-    "ref_areas": {
-      "label": "ref (Sold/UAG)",
-      "count": 0,
-      "total_sold": 0,
-      "total_active": 0,
-      "sale_price": {
-        "median": null,
-        "mean": null,
-        "min": null,
-        "max": null,
-        "p25": null,
-        "p75": null,
-        "stdev": null
-      },
-      "list_price": {
-        "median": null,
-        "mean": null
-      },
-      "price_per_sqft": {
-        "median": null,
-        "mean": null,
-        "p25": null,
-        "p75": null
-      },
-      "sqft": {
-        "median": null,
-        "mean": null
-      },
-      "sp_lp_ratio": null,
-      "pct_over_ask": null,
-      "months_supply": null,
-      "avg_monthly_sales": null,
-      "bedroom_breakdown": {},
-      "monthly_trend_12mo": {},
-      "top_towns": [],
-      "boston_neighborhoods": {}
-    },
-    "ref_counties": {
-      "label": "ref (Sold/UAG)",
-      "count": 0,
-      "total_sold": 0,
-      "total_active": 0,
-      "sale_price": {
-        "median": null,
-        "mean": null,
-        "min": null,
-        "max": null,
-        "p25": null,
-        "p75": null,
-        "stdev": null
-      },
-      "list_price": {
-        "median": null,
-        "mean": null
-      },
-      "price_per_sqft": {
-        "median": null,
-        "mean": null,
-        "p25": null,
-        "p75": null
-      },
-      "sqft": {
-        "median": null,
-        "mean": null
-      },
-      "sp_lp_ratio": null,
-      "pct_over_ask": null,
-      "months_supply": null,
-      "avg_monthly_sales": null,
-      "bedroom_breakdown": {},
-      "monthly_trend_12mo": {},
-      "top_towns": [],
-      "boston_neighborhoods": {}
-    },
-    "ref_field_reference": {
-      "label": "ref (Sold/UAG)",
-      "count": 0,
-      "total_sold": 0,
-      "total_active": 0,
-      "sale_price": {
-        "median": null,
-        "mean": null,
-        "min": null,
-        "max": null,
-        "p25": null,
-        "p75": null,
-        "stdev": null
-      },
-      "list_price": {
-        "median": null,
-        "mean": null
-      },
-      "price_per_sqft": {
-        "median": null,
-        "mean": null,
-        "p25": null,
-        "p75": null
-      },
-      "sqft": {
-        "median": null,
-        "mean": null
-      },
-      "sp_lp_ratio": null,
-      "pct_over_ask": null,
-      "months_supply": null,
-      "avg_monthly_sales": null,
-      "bedroom_breakdown": {},
-      "monthly_trend_12mo": {},
-      "top_towns": [],
-      "boston_neighborhoods": {}
-    },
     "SF_active": {
       "label": "Single Family (Active)",
       "count": 842,
@@ -1372,203 +1175,6 @@
     }
   },
   "by_property_type_180d": {
-    "ref_towns": {
-      "label": "ref (Sold/UAG)",
-      "count": 18,
-      "total_sold": 0,
-      "total_active": 0,
-      "sale_price": {
-        "median": null,
-        "mean": null,
-        "min": null,
-        "max": null,
-        "p25": null,
-        "p75": null,
-        "stdev": null
-      },
-      "list_price": {
-        "median": null,
-        "mean": null
-      },
-      "price_per_sqft": {
-        "median": null,
-        "mean": null,
-        "p25": null,
-        "p75": null
-      },
-      "sqft": {
-        "median": null,
-        "mean": null
-      },
-      "sp_lp_ratio": null,
-      "pct_over_ask": null,
-      "months_supply": null,
-      "avg_monthly_sales": null,
-      "bedroom_breakdown": {},
-      "monthly_trend_12mo": {},
-      "top_towns": [
-        [
-          "Boston",
-          1
-        ],
-        [
-          "Brookline",
-          1
-        ],
-        [
-          "Cambridge",
-          1
-        ],
-        [
-          "Everett",
-          1
-        ],
-        [
-          "Malden",
-          1
-        ],
-        [
-          "Medford",
-          1
-        ],
-        [
-          "Somerville",
-          1
-        ],
-        [
-          "Revere",
-          1
-        ],
-        [
-          "Chelsea",
-          1
-        ],
-        [
-          "Newton",
-          1
-        ],
-        [
-          "Waltham",
-          1
-        ],
-        [
-          "Watertown",
-          1
-        ]
-      ],
-      "boston_neighborhoods": {}
-    },
-    "ref_areas": {
-      "label": "ref (Sold/UAG)",
-      "count": 0,
-      "total_sold": 0,
-      "total_active": 0,
-      "sale_price": {
-        "median": null,
-        "mean": null,
-        "min": null,
-        "max": null,
-        "p25": null,
-        "p75": null,
-        "stdev": null
-      },
-      "list_price": {
-        "median": null,
-        "mean": null
-      },
-      "price_per_sqft": {
-        "median": null,
-        "mean": null,
-        "p25": null,
-        "p75": null
-      },
-      "sqft": {
-        "median": null,
-        "mean": null
-      },
-      "sp_lp_ratio": null,
-      "pct_over_ask": null,
-      "months_supply": null,
-      "avg_monthly_sales": null,
-      "bedroom_breakdown": {},
-      "monthly_trend_12mo": {},
-      "top_towns": [],
-      "boston_neighborhoods": {}
-    },
-    "ref_counties": {
-      "label": "ref (Sold/UAG)",
-      "count": 0,
-      "total_sold": 0,
-      "total_active": 0,
-      "sale_price": {
-        "median": null,
-        "mean": null,
-        "min": null,
-        "max": null,
-        "p25": null,
-        "p75": null,
-        "stdev": null
-      },
-      "list_price": {
-        "median": null,
-        "mean": null
-      },
-      "price_per_sqft": {
-        "median": null,
-        "mean": null,
-        "p25": null,
-        "p75": null
-      },
-      "sqft": {
-        "median": null,
-        "mean": null
-      },
-      "sp_lp_ratio": null,
-      "pct_over_ask": null,
-      "months_supply": null,
-      "avg_monthly_sales": null,
-      "bedroom_breakdown": {},
-      "monthly_trend_12mo": {},
-      "top_towns": [],
-      "boston_neighborhoods": {}
-    },
-    "ref_field_reference": {
-      "label": "ref (Sold/UAG)",
-      "count": 0,
-      "total_sold": 0,
-      "total_active": 0,
-      "sale_price": {
-        "median": null,
-        "mean": null,
-        "min": null,
-        "max": null,
-        "p25": null,
-        "p75": null,
-        "stdev": null
-      },
-      "list_price": {
-        "median": null,
-        "mean": null
-      },
-      "price_per_sqft": {
-        "median": null,
-        "mean": null,
-        "p25": null,
-        "p75": null
-      },
-      "sqft": {
-        "median": null,
-        "mean": null
-      },
-      "sp_lp_ratio": null,
-      "pct_over_ask": null,
-      "months_supply": null,
-      "avg_monthly_sales": null,
-      "bedroom_breakdown": {},
-      "monthly_trend_12mo": {},
-      "top_towns": [],
-      "boston_neighborhoods": {}
-    },
     "SF_active": {
       "label": "Single Family (Active)",
       "count": 842,
@@ -2978,7 +2584,7 @@
           }
         }
       },
-      "narrative": "Somerville's real estate market remains fiercely competitive across all property types, with condos and multi-families leading the charge as 42.5% and 42.9% of those sales closed above asking price, respectively, and condos hitting a perfect 100% sale-to-list ratio on a $992,500 median. Single families commanded a $1,699,000 median sale price with 20% selling over ask, while multi-families settled at $1,300,000 with a 98.7% SP/LP ratio \u2014 all three segments reporting virtually no months of supply, a signal that inventory is essentially nonexistent. For buyers, this means coming in strong with pre-approval in hand, minimal contingencies, and offers at or above list price to have any realistic shot, particularly in the condo space where 40 units moved in just 30 days. Sellers, on the other hand, are sitting in an enviable position \u2014 properly priced homes are moving quickly and generating multiple offers, making now an exceptional time to list and capitalize on Somerville's sustained demand driven by its proximity to the Green Line Extension and Cambridge's innovation corridor."
+      "narrative": "Somerville continues to prove itself as one of Greater Boston's most competitive markets, with condos and multi-families leading the charge \u2014 42.5% and 42.9% of those properties respectively sold above asking price, and condos hit a perfect 100% sale-to-list ratio on a median sale price of $992,500. Single families commanded a median of $1,699,000 while still moving at 95.8% of list price, and with effectively zero months of supply across all property types, inventory remains critically tight. For sellers, this is an exceptional moment to list, as bidding wars are clearly the norm rather than the exception and pricing confidence is high across every asset class. Buyers should come prepared with strong pre-approvals, minimal contingencies, and the expectation of escalating well beyond the asking price \u2014 particularly in the condo and multi-family segments where competition is most fierce."
     },
     "Cambridge": {
       "neighborhoods": {},
@@ -3460,7 +3066,7 @@
           }
         }
       },
-      "narrative": "Cambridge remains one of the most fiercely competitive markets in Greater Boston, with single-family homes commanding a median sale price of $2,300,000 and selling at an average of 104.2% of list price \u2014 a staggering 81.8% of those sales closing above asking. Condos are equally active, with 67 units sold in the past 30 days at a median of $1,100,000 and nearly half going over list price, while multi-families are trading at $1,650,000 with a third of sales exceeding ask. With no measurable months of supply across all property types, inventory is essentially nonexistent, creating a market where well-priced homes are absorbed almost immediately. Sellers are in an exceptionally strong position and should expect multiple offers and clean terms, while buyers need to come prepared with aggressive pricing strategies, minimal contingencies, and the financial flexibility to move quickly or risk being shut out repeatedly."
+      "narrative": "Cambridge remains one of the most fiercely competitive markets in Greater Boston, with single-family homes commanding a median sale price of $2,300,000 and selling at an average of 104.2% of list price \u2014 with a staggering 81.8% of homes closing above asking. The condo market is equally robust, with 67 units sold in the past 30 days at a median of $1,100,000 and half of all sales closing at or above list price, while multi-families are trading at a median of $1,650,000 with virtually no months of supply across all property types. For sellers, Cambridge is about as close to a guaranteed premium as today's market offers \u2014 properly priced listings are drawing multiple offers and near-instant sales. Buyers should expect to bring their strongest offers with minimal contingencies from day one, as hesitation in this market almost always means losing out to a competitor willing to go well over ask."
     },
     "Medford": {
       "neighborhoods": {},
@@ -3938,7 +3544,7 @@
           }
         }
       },
-      "narrative": "Medford's real estate market is firing on all cylinders, with single-family homes commanding a median sale price of $950,000 and closing at 102.7% of list price \u2014 69.2% of them selling above asking \u2014 signaling an intensely competitive landscape for buyers. The multifamily segment tells an even more aggressive story, with a median of $1,330,000 and a striking 107.2% sale-to-list ratio, with half of all sales going over ask, though only 2 transactions closed in the last 30 days, making that segment particularly thin. Condos offer a comparatively softer entry point at $825,000 with a near-even 99.4% SP/LP ratio, though still more than a quarter sold above list price. With essentially zero months of supply across all property types, sellers hold enormous leverage right now, while buyers should expect to move quickly, come in strong, and be prepared to waive contingencies to compete in what remains one of Greater Boston's tightest inner-suburb markets."
+      "narrative": "Medford's real estate market is firing on all cylinders, with single-family homes selling at a median of $950,000 and closing at 102.7% of list price \u2014 a striking 69.2% of those homes sold above asking in the last 30 days alone. Condos are slightly more measured at $825,000 median with a 99.4% SP/LP ratio, though still competitive, while the multi-family segment is the most aggressive of all, with a 107.2% SP/LP ratio and half of all sales going over ask at a median of $1.33M. With no measurable months of supply across all property types and only 13 single-family homes and 19 condos changing hands in the past month, inventory is critically tight. For sellers, conditions are about as favorable as they get \u2014 pricing aggressively is rewarded and bidding wars remain the norm \u2014 while buyers should expect to move fast, come in above list, and have financing airtight before stepping through the door."
     },
     "Melrose": {
       "neighborhoods": {},
@@ -4388,7 +3994,7 @@
           }
         }
       },
-      "narrative": "Melrose's real estate market is firing on all cylinders, with single-family homes commanding a median sale price of $1,031,800 and selling at a striking 105.7% of list price \u2014 meaning buyers are routinely paying $50,000\u2013$60,000 above asking, with nearly 79% of homes closing over list. The inventory picture is essentially barren across all property types, creating intense competition that's pushing multi-family properties to 100% over-ask rates at a median of $820,000, while condos offer a comparatively accessible entry point at $640,000, still trading right at list price with two-thirds going above asking. For sellers, this is about as favorable an environment as it gets \u2014 razor-thin supply and strong buyer demand are delivering premium prices with likely minimal days on market. Buyers should come prepared with pre-approvals locked, escalation clauses ready, and realistic expectations that the list price is effectively just the starting bid in this aggressively competitive suburb."
+      "narrative": "Melrose remains one of the North Shore's most competitive markets, with single-family homes commanding a median sale price of $1,031,800 and selling at 105.7% of list price \u2014 nearly 79% of the 19 homes sold in the past 30 days closed above asking. Condos are transacting right at list price with a $640,000 median, while multi-family properties are seeing every single sale close over ask at a 102.6% sale-to-list ratio and an $820,000 median, signaling strong investor and owner-occupant demand across all property types. With effectively no months of supply in any category, sellers hold significant leverage and can realistically expect multiple offers and above-list outcomes, particularly in the single-family and multi-family segments. Buyers should come prepared with pre-approvals locked, escalation clauses ready, and competitive terms \u2014 hesitation in Melrose right now is costly."
     },
     "Arlington": {
       "neighborhoods": {},
@@ -4858,7 +4464,7 @@
           }
         }
       },
-      "narrative": "Arlington's real estate market is firing on all cylinders right now, with single-family homes posting a median sale price of $1,222,778 and selling at 107.4% of list price \u2014 a remarkable 72.2% of those homes going above asking \u2014 while multi-families are the most hotly contested segment, with every single one of the 4 sales in the past 30 days closing over ask at a median of $1,522,500 and an extraordinary 115.4% sale-to-list ratio. Condos offer a comparatively calmer entry point at a $929,000 median, hitting exactly list price on average, though nearly a third still attracted above-ask offers among the 25 units sold. With inventory so tight that months of supply is essentially unmeasurable across all property types, sellers are firmly in control and can expect aggressive, competitive offers \u2014 often with few contingencies. Buyers need to come prepared with strong pre-approvals, escalation clauses, and the financial flexibility to bridge the gap between appraised value and the premium prices this high-demand town commands."
+      "narrative": "Arlington remains one of Greater Boston's most fiercely competitive markets, with single-family homes selling at a median of $1,222,778 \u2014 a remarkable 107.4% of list price \u2014 and nearly three out of four homes closing above asking. Multi-family properties are even more intense, with a median sale price of $1,522,500 and every single transaction in the past 30 days closing over ask, at an average of 115.4% of list. Condos offer a relatively softer entry point at $929,000 median, though even there a third of units are attracting above-asking offers. With effectively zero months of supply across all property types, sellers hold enormous leverage and should expect strong competition and quick closings, while buyers need to come prepared with aggressive offers, minimal contingencies, and the financial flexibility to bid well above list price to have a realistic shot at landing a home here."
     },
     "Belmont": {
       "neighborhoods": {},
@@ -5324,7 +4930,7 @@
           }
         }
       },
-      "narrative": "Belmont's real estate market is firing on all cylinders, with single-family homes commanding a median sale price of $1,557,500 and an extraordinary 87.5% of properties selling above asking price at an average of 105% of list price \u2014 a clear signal that buyers are competing aggressively in this sought-after suburb. With essentially no months of supply across all property types and only 8 single-family homes sold in the past 30 days, inventory is critically tight, giving sellers remarkable leverage and near-guaranteed premium pricing. The condo segment offers a comparatively accessible entry point at a $592,000 median, though even there half of units are closing above list at 101.4% SP/LP, while multi-family properties are fetching a robust $1,431,000 median with two-thirds selling over ask. For buyers, Belmont demands aggressive offers, waived contingencies, and pre-approval readiness, while sellers are in an enviable position to maximize returns with minimal time on market."
+      "narrative": "Belmont's real estate market is firing on all cylinders, with single-family homes commanding a median sale price of $1,557,500 and an extraordinary 87.5% of properties selling above asking price at an average of 105% of list price \u2014 a clear signal that demand is vastly outpacing supply. With effectively zero months of inventory across all property types, this is about as competitive a market as it gets, and the 8 single-family sales recorded in the last 30 days represent just a trickle of what buyers are chasing. For sellers, conditions are nearly ideal \u2014 pricing aggressively is still being rewarded, and multi-family properties are no exception, with a median of $1,431,000 and nearly two-thirds selling over ask. Buyers should come prepared with pre-approval letters, flexible terms, and escalation clauses, as hesitation in Belmont almost certainly means losing out to one of many competing offers."
     },
     "Watertown": {
       "neighborhoods": {},
@@ -5778,7 +5384,7 @@
           }
         }
       },
-      "narrative": "Watertown's real estate market remains fiercely competitive across all property types, with essentially zero months of supply signaling an acute shortage of available homes. Single-family homes are commanding a median of $1,005,000 with 66.7% of properties selling above asking price and a sale-to-list ratio of 100.5%, while multi-families are the hottest segment of all \u2014 every single one of the 3 sold in the past 30 days closed above ask, with a median of $1,015,000 and an impressive 103.6% SP/LP ratio. Condos offer a comparatively more accessible entry point at a $695,460 median, though even that segment sees over half of listings (52.4%) selling at or above list price at a clean 100.0% SP/LP. For buyers, this means coming in with strong pre-approvals, minimal contingencies, and offers at or above list price to be competitive, while sellers across all categories are well-positioned to achieve \u2014 and frequently exceed \u2014 their asking prices in very short order."
+      "narrative": "Watertown's real estate market is running at a fever pitch across all property types, with single-family homes posting a median sale price of $1,005,000 and 66.7% of listings selling above asking price at a 100.5% sale-to-list ratio \u2014 a clear signal that buyers are competing hard for very limited inventory. Condos offer a relatively more accessible entry point at a $695,460 median with an even split at 100% SP/LP, yet still saw 52.4% of units close over ask among 21 sales in the past 30 days. Multi-families are the most fiercely contested segment, with all three sales in the last month closing over list price at a 103.6% SP/LP ratio and a median of $1,015,000, reflecting strong investor and house-hacker demand. With months of supply effectively at zero across the board, sellers hold overwhelming leverage and should expect quick, competitive offers, while buyers need to come in fully prepared \u2014 strong pre-approvals, limited contingencies, and escalation clauses are essentially table stakes in today's Watertown market."
     },
     "Winchester": {
       "neighborhoods": {},
@@ -6214,7 +5820,7 @@
           "sold": {}
         }
       },
-      "narrative": "Winchester's single-family market is commanding serious attention, with a median sale price of $1,830,000 and homes closing at 100.9% of list price \u2014 61.1% of them selling above asking in the last 30 days across 18 transactions. The condo segment is even more competitive, with a median sale price of $930,000, an impressive 103.7% sale-to-list ratio, and a striking 83.3% of units selling over ask among the 6 condos sold. With effectively zero months of supply in both segments, inventory is critically tight, giving sellers enormous leverage and the realistic expectation of multiple offers and above-list results. Buyers need to come prepared with strong financing, minimal contingencies, and the willingness to move decisively \u2014 hesitation in Winchester right now is a strategy that rarely pays off."
+      "narrative": "Winchester's single-family market is firing on all cylinders, with a median sale price of $1,830,000 and homes averaging 100.9% of list price \u2014 61% of them selling above asking across 18 transactions in the last 30 days. The condo segment is even more competitive, with a median of $930,000, a remarkable 103.7% sale-to-list ratio, and a striking 83% of units closing over ask. With effectively zero months of supply in both segments, inventory is critically tight, giving sellers extraordinary leverage and the realistic expectation of multiple offers. Buyers need to come prepared with strong pre-approvals, minimal contingencies, and the flexibility to move quickly \u2014 hesitation in Winchester right now almost certainly means losing out."
     },
     "Boston": {
       "neighborhoods": {
@@ -6825,7 +6431,7 @@
           }
         }
       },
-      "narrative": "Boston's real estate market remains fiercely competitive across all property types, with single-family homes leading the charge at a median sale price of $886,000 and an impressive 101.7% sale-to-list ratio, meaning nearly two-thirds of homes \u2014 62.7% \u2014 are selling above asking price. The condo market is equally active, with 316 units changing hands in just 30 days at a median of $797,500, while multi-family properties commanded a median of $1,082,500 with 54.8% selling over ask, reflecting strong investor and house-hacker demand. With supply so constrained that months of inventory is effectively zero across all three categories, sellers hold an undeniable advantage and can realistically expect full-price or above-price offers with minimal time on market. Buyers should come prepared with strong pre-approvals, competitive escalation clauses, and realistic expectations about waiving contingencies \u2014 hesitation in this market almost certainly means losing out."
+      "narrative": "Boston's real estate market remains fiercely competitive across all property types, with single-family homes leading the charge at a median sale price of $886,000 and an impressive 101.7% sale-to-list ratio, meaning nearly two-thirds of homes \u2014 62.7% \u2014 are selling above asking price. The condo market is equally active, with 316 units sold in the past 30 days at a median of $797,500, while multi-family properties commanded a hefty $1,082,500 median with 54.8% selling over list price. With essentially no measurable months of supply across all segments, inventory is critically tight, creating a landscape where buyers must move quickly, come in strong with offers above asking, and expect limited negotiating leverage. For sellers, conditions couldn't be more favorable \u2014 properly priced homes in all categories are attracting immediate attention and premium bids, making this an outstanding time to bring a property to market."
     }
   },
   "individual_listings": {
