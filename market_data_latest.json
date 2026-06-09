@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-09T17:42:27.641482",
+  "generated": "2026-06-09T18:20:10.209402",
   "data_period": "30-day primary / 180-day context",
   "office": "Coldwell Banker Realty \u2014 Cambridge Office",
   "analyst": "Paul Ventresca",
@@ -16,7 +16,7 @@
   },
   "market_summary": {
     "combined_sold": {
-      "count": 21726,
+      "count": 21731,
       "total_sold": 1212,
       "total_active": 0,
       "sale_price": {
@@ -30,7 +30,7 @@
       },
       "list_price": {
         "median": 3500.0,
-        "mean": 192601.14
+        "mean": 192590.69
       },
       "price_per_sqft": {
         "median": 625.27,
@@ -40,7 +40,7 @@
       },
       "sqft": {
         "median": 1020.0,
-        "mean": 2404.38
+        "mean": 2404.12
       },
       "sp_lp_ratio": 100.0,
       "pct_over_ask": 47.4,
@@ -48,7 +48,7 @@
       "avg_monthly_sales": 606,
       "bedroom_breakdown": {
         "1BR": {
-          "count": 5313,
+          "count": 5314,
           "median_price": 2800.0
         },
         "2BR": {
@@ -56,11 +56,11 @@
           "median_price": 3400.0
         },
         "3BR": {
-          "count": 4425,
+          "count": 4428,
           "median_price": 4200.0
         },
         "4BR": {
-          "count": 1841,
+          "count": 1842,
           "median_price": 5400.0
         },
         "5BR": {
@@ -79,7 +79,7 @@
       "top_towns": [
         [
           "Boston",
-          11761
+          11763
         ],
         [
           "Cambridge",
@@ -91,7 +91,7 @@
         ],
         [
           "Somerville",
-          1137
+          1138
         ],
         [
           "Newton",
@@ -131,16 +131,16 @@
         "101": 928,
         "104": 766,
         "011": 736,
-        "007": 499,
+        "007": 500,
         "002": 460,
         "105": 454,
         "Beacon Hill": 450
       }
     },
     "combined_active": {
-      "count": 9078,
+      "count": 9080,
       "total_sold": 0,
-      "total_active": 7592,
+      "total_active": 7583,
       "sale_price": {
         "median": null,
         "mean": null,
@@ -152,7 +152,7 @@
       },
       "list_price": {
         "median": 5800.0,
-        "mean": 761095.44
+        "mean": 761341.42
       },
       "price_per_sqft": {
         "median": null,
@@ -162,7 +162,7 @@
       },
       "sqft": {
         "median": 1200.0,
-        "mean": 2727.19
+        "mean": 2726.81
       },
       "sp_lp_ratio": null,
       "pct_over_ask": null,
@@ -170,11 +170,11 @@
       "avg_monthly_sales": null,
       "bedroom_breakdown": {
         "1BR": {
-          "count": 1658,
-          "median_price": 3450.0
+          "count": 1659,
+          "median_price": 3425.0
         },
         "2BR": {
-          "count": 2662,
+          "count": 2663,
           "median_price": 4600.0
         },
         "3BR": {
@@ -198,11 +198,11 @@
       "top_towns": [
         [
           "Boston",
-          5266
+          5269
         ],
         [
           "Cambridge",
-          589
+          590
         ],
         [
           "Brookline",
@@ -210,7 +210,7 @@
         ],
         [
           "Somerville",
-          462
+          461
         ],
         [
           "Newton",
@@ -247,22 +247,22 @@
       ],
       "boston_neighborhoods": {
         "005": 359,
+        "104": 329,
         "011": 327,
-        "104": 327,
         "101": 325,
-        "002": 237,
-        "007": 206,
+        "002": 238,
+        "007": 205,
         "010": 197,
-        "Beacon Hill": 185
+        "Beacon Hill": 186
       }
     }
   },
   "by_property_type_30d": {
     "SF_active": {
       "label": "Single Family (Active)",
-      "count": 867,
+      "count": 868,
       "total_sold": 0,
-      "total_active": 668,
+      "total_active": 667,
       "sale_price": {
         "median": null,
         "mean": null,
@@ -274,7 +274,7 @@
       },
       "list_price": {
         "median": 1499000.0,
-        "mean": 2410075.83
+        "mean": 2411268.14
       },
       "price_per_sqft": {
         "median": null,
@@ -284,7 +284,7 @@
       },
       "sqft": {
         "median": 2700.0,
-        "mean": 3250.65
+        "mean": 3250.51
       },
       "sp_lp_ratio": null,
       "pct_over_ask": null,
@@ -304,8 +304,8 @@
           "median_price": 899000.0
         },
         "4BR": {
-          "count": 269,
-          "median_price": 1640000.0
+          "count": 270,
+          "median_price": 1644500.0
         },
         "5BR": {
           "count": 179,
@@ -320,7 +320,7 @@
       "top_towns": [
         [
           "Boston",
-          241
+          242
         ],
         [
           "Newton",
@@ -375,7 +375,7 @@
         "007": 17,
         "101": 15,
         "006": 14,
-        "104": 9
+        "104": 10
       }
     },
     "SF_sold": {
@@ -505,7 +505,7 @@
       "label": "Condo (Active)",
       "count": 2648,
       "total_sold": 0,
-      "total_active": 2219,
+      "total_active": 2215,
       "sale_price": {
         "median": null,
         "mean": null,
@@ -516,8 +516,8 @@
         "stdev": null
       },
       "list_price": {
-        "median": 835000.0,
-        "mean": 1347079.41
+        "median": 837000.0,
+        "mean": 1347196.47
       },
       "price_per_sqft": {
         "median": null,
@@ -527,7 +527,7 @@
       },
       "sqft": {
         "median": 1114.0,
-        "mean": 1334.45
+        "mean": 1334.34
       },
       "sp_lp_ratio": null,
       "pct_over_ask": null,
@@ -539,12 +539,12 @@
           "median_price": 629450.0
         },
         "2BR": {
-          "count": 1124,
-          "median_price": 839850.0
+          "count": 1125,
+          "median_price": 839900.0
         },
         "3BR": {
-          "count": 568,
-          "median_price": 1199500.0
+          "count": 567,
+          "median_price": 1200000.0
         },
         "4BR": {
           "count": 181,
@@ -563,7 +563,7 @@
       "top_towns": [
         [
           "Boston",
-          1746
+          1747
         ],
         [
           "Cambridge",
@@ -575,7 +575,7 @@
         ],
         [
           "Somerville",
-          130
+          129
         ],
         [
           "Newton",
@@ -618,12 +618,12 @@
         "108": 82,
         "007": 78,
         "113": 75,
-        "Beacon Hill": 71
+        "Beacon Hill": 72
       }
     },
     "CC_sold": {
       "label": "Condo (Sold/UAG)",
-      "count": 1873,
+      "count": 1874,
       "total_sold": 733,
       "total_active": 0,
       "sale_price": {
@@ -637,7 +637,7 @@
       },
       "list_price": {
         "median": 820000.0,
-        "mean": 1066990.28
+        "mean": 1066804.59
       },
       "price_per_sqft": {
         "median": 743.41,
@@ -646,8 +646,8 @@
         "p75": 979.73
       },
       "sqft": {
-        "median": 1130.0,
-        "mean": 1309.63
+        "median": 1129.5,
+        "mean": 1309.53
       },
       "sp_lp_ratio": 100.0,
       "pct_over_ask": 38.6,
@@ -663,8 +663,8 @@
           "median_price": 793000.0
         },
         "3BR": {
-          "count": 446,
-          "median_price": 1096500.0
+          "count": 447,
+          "median_price": 1095000.0
         },
         "4BR": {
           "count": 136,
@@ -698,7 +698,7 @@
         ],
         [
           "Somerville",
-          115
+          116
         ],
         [
           "Newton",
@@ -746,9 +746,9 @@
     },
     "RN_active": {
       "label": "Residential Rental (Active)",
-      "count": 4990,
+      "count": 4991,
       "total_sold": 0,
-      "total_active": 4236,
+      "total_active": 4233,
       "sale_price": {
         "median": null,
         "mean": null,
@@ -760,7 +760,7 @@
       },
       "list_price": {
         "median": 3500.0,
-        "mean": 3964.84
+        "mean": 3964.19
       },
       "price_per_sqft": {
         "median": null,
@@ -769,8 +769,8 @@
         "p75": null
       },
       "sqft": {
-        "median": 1034.0,
-        "mean": 3111.1
+        "median": 1032.0,
+        "mean": 3110.3
       },
       "sp_lp_ratio": null,
       "pct_over_ask": null,
@@ -778,7 +778,7 @@
       "avg_monthly_sales": null,
       "bedroom_breakdown": {
         "1BR": {
-          "count": 1002,
+          "count": 1003,
           "median_price": 2800.0
         },
         "2BR": {
@@ -786,11 +786,11 @@
           "median_price": 3300.0
         },
         "3BR": {
-          "count": 1228,
-          "median_price": 3788.0
+          "count": 1229,
+          "median_price": 3795.0
         },
         "4BR": {
-          "count": 721,
+          "count": 720,
           "median_price": 4600.0
         },
         "5BR": {
@@ -806,11 +806,11 @@
       "top_towns": [
         [
           "Boston",
-          3000
+          3001
         ],
         [
           "Cambridge",
-          347
+          348
         ],
         [
           "Brookline",
@@ -856,17 +856,17 @@
       "boston_neighborhoods": {
         "011": 198,
         "005": 181,
-        "002": 144,
+        "002": 145,
         "101": 140,
         "010": 138,
         "105": 130,
-        "104": 124,
-        "007": 98
+        "104": 125,
+        "007": 97
       }
     },
     "RN_sold": {
       "label": "Residential Rental (Sold/UAG)",
-      "count": 18451,
+      "count": 18455,
       "total_sold": 0,
       "total_active": 0,
       "sale_price": {
@@ -880,7 +880,7 @@
       },
       "list_price": {
         "median": 3230.0,
-        "mean": 3655.06
+        "mean": 3655.19
       },
       "price_per_sqft": {
         "median": null,
@@ -890,7 +890,7 @@
       },
       "sqft": {
         "median": 1000.0,
-        "mean": 2482.57
+        "mean": 2482.32
       },
       "sp_lp_ratio": null,
       "pct_over_ask": null,
@@ -898,7 +898,7 @@
       "avg_monthly_sales": null,
       "bedroom_breakdown": {
         "1BR": {
-          "count": 4959,
+          "count": 4960,
           "median_price": 2750.0
         },
         "2BR": {
@@ -906,11 +906,11 @@
           "median_price": 3250.0
         },
         "3BR": {
-          "count": 3597,
+          "count": 3599,
           "median_price": 3800.0
         },
         "4BR": {
-          "count": 1380,
+          "count": 1381,
           "median_price": 4700.0
         },
         "5BR": {
@@ -926,7 +926,7 @@
       "top_towns": [
         [
           "Boston",
-          10365
+          10367
         ],
         [
           "Cambridge",
@@ -980,7 +980,7 @@
         "011": 665,
         "105": 438,
         "Beacon Hill": 402,
-        "007": 383,
+        "007": 384,
         "002": 375
       }
     },
@@ -988,7 +988,7 @@
       "label": "Multi-Family (Active)",
       "count": 573,
       "total_sold": 0,
-      "total_active": 469,
+      "total_active": 468,
       "sale_price": {
         "median": null,
         "mean": null,
@@ -1181,9 +1181,9 @@
   "by_property_type_180d": {
     "SF_active": {
       "label": "Single Family (Active)",
-      "count": 867,
+      "count": 868,
       "total_sold": 0,
-      "total_active": 668,
+      "total_active": 667,
       "sale_price": {
         "median": null,
         "mean": null,
@@ -1195,7 +1195,7 @@
       },
       "list_price": {
         "median": 1499000.0,
-        "mean": 2410075.83
+        "mean": 2411268.14
       },
       "price_per_sqft": {
         "median": null,
@@ -1205,7 +1205,7 @@
       },
       "sqft": {
         "median": 2700.0,
-        "mean": 3250.65
+        "mean": 3250.51
       },
       "sp_lp_ratio": null,
       "pct_over_ask": null,
@@ -1225,8 +1225,8 @@
           "median_price": 899000.0
         },
         "4BR": {
-          "count": 269,
-          "median_price": 1640000.0
+          "count": 270,
+          "median_price": 1644500.0
         },
         "5BR": {
           "count": 179,
@@ -1241,7 +1241,7 @@
       "top_towns": [
         [
           "Boston",
-          241
+          242
         ],
         [
           "Newton",
@@ -1296,7 +1296,7 @@
         "007": 17,
         "101": 15,
         "006": 14,
-        "104": 9
+        "104": 10
       }
     },
     "SF_sold": {
@@ -1431,7 +1431,7 @@
       "label": "Condo (Active)",
       "count": 2648,
       "total_sold": 0,
-      "total_active": 2219,
+      "total_active": 2215,
       "sale_price": {
         "median": null,
         "mean": null,
@@ -1442,8 +1442,8 @@
         "stdev": null
       },
       "list_price": {
-        "median": 835000.0,
-        "mean": 1347079.41
+        "median": 837000.0,
+        "mean": 1347196.47
       },
       "price_per_sqft": {
         "median": null,
@@ -1453,7 +1453,7 @@
       },
       "sqft": {
         "median": 1114.0,
-        "mean": 1334.45
+        "mean": 1334.34
       },
       "sp_lp_ratio": null,
       "pct_over_ask": null,
@@ -1465,12 +1465,12 @@
           "median_price": 629450.0
         },
         "2BR": {
-          "count": 1124,
-          "median_price": 839850.0
+          "count": 1125,
+          "median_price": 839900.0
         },
         "3BR": {
-          "count": 568,
-          "median_price": 1199500.0
+          "count": 567,
+          "median_price": 1200000.0
         },
         "4BR": {
           "count": 181,
@@ -1489,7 +1489,7 @@
       "top_towns": [
         [
           "Boston",
-          1746
+          1747
         ],
         [
           "Cambridge",
@@ -1501,7 +1501,7 @@
         ],
         [
           "Somerville",
-          130
+          129
         ],
         [
           "Newton",
@@ -1544,12 +1544,12 @@
         "108": 82,
         "007": 78,
         "113": 75,
-        "Beacon Hill": 71
+        "Beacon Hill": 72
       }
     },
     "CC_sold": {
       "label": "Condo (Sold/UAG)",
-      "count": 4128,
+      "count": 4129,
       "total_sold": 2988,
       "total_active": 0,
       "sale_price": {
@@ -1563,7 +1563,7 @@
       },
       "list_price": {
         "median": 799000.0,
-        "mean": 1085857.51
+        "mean": 1085768.66
       },
       "price_per_sqft": {
         "median": 706.04,
@@ -1573,7 +1573,7 @@
       },
       "sqft": {
         "median": 1135.0,
-        "mean": 1324.23
+        "mean": 1324.17
       },
       "sp_lp_ratio": 99.3,
       "pct_over_ask": 28.8,
@@ -1589,7 +1589,7 @@
           "median_price": 760000.0
         },
         "3BR": {
-          "count": 980,
+          "count": 981,
           "median_price": 1050000.0
         },
         "4BR": {
@@ -1625,7 +1625,7 @@
         ],
         [
           "Somerville",
-          253
+          254
         ],
         [
           "Brookline",
@@ -1677,9 +1677,9 @@
     },
     "RN_active": {
       "label": "Residential Rental (Active)",
-      "count": 4990,
+      "count": 4991,
       "total_sold": 0,
-      "total_active": 4236,
+      "total_active": 4233,
       "sale_price": {
         "median": null,
         "mean": null,
@@ -1691,7 +1691,7 @@
       },
       "list_price": {
         "median": 3500.0,
-        "mean": 3964.84
+        "mean": 3964.19
       },
       "price_per_sqft": {
         "median": null,
@@ -1700,8 +1700,8 @@
         "p75": null
       },
       "sqft": {
-        "median": 1034.0,
-        "mean": 3111.1
+        "median": 1032.0,
+        "mean": 3110.3
       },
       "sp_lp_ratio": null,
       "pct_over_ask": null,
@@ -1709,7 +1709,7 @@
       "avg_monthly_sales": null,
       "bedroom_breakdown": {
         "1BR": {
-          "count": 1002,
+          "count": 1003,
           "median_price": 2800.0
         },
         "2BR": {
@@ -1717,11 +1717,11 @@
           "median_price": 3300.0
         },
         "3BR": {
-          "count": 1228,
-          "median_price": 3788.0
+          "count": 1229,
+          "median_price": 3795.0
         },
         "4BR": {
-          "count": 721,
+          "count": 720,
           "median_price": 4600.0
         },
         "5BR": {
@@ -1737,11 +1737,11 @@
       "top_towns": [
         [
           "Boston",
-          3000
+          3001
         ],
         [
           "Cambridge",
-          347
+          348
         ],
         [
           "Brookline",
@@ -1787,17 +1787,17 @@
       "boston_neighborhoods": {
         "011": 198,
         "005": 181,
-        "002": 144,
+        "002": 145,
         "101": 140,
         "010": 138,
         "105": 130,
-        "104": 124,
-        "007": 98
+        "104": 125,
+        "007": 97
       }
     },
     "RN_sold": {
       "label": "Residential Rental (Sold/UAG)",
-      "count": 18451,
+      "count": 18455,
       "total_sold": 0,
       "total_active": 0,
       "sale_price": {
@@ -1811,7 +1811,7 @@
       },
       "list_price": {
         "median": 3230.0,
-        "mean": 3655.06
+        "mean": 3655.19
       },
       "price_per_sqft": {
         "median": null,
@@ -1821,7 +1821,7 @@
       },
       "sqft": {
         "median": 1000.0,
-        "mean": 2482.57
+        "mean": 2482.32
       },
       "sp_lp_ratio": null,
       "pct_over_ask": null,
@@ -1829,7 +1829,7 @@
       "avg_monthly_sales": null,
       "bedroom_breakdown": {
         "1BR": {
-          "count": 4959,
+          "count": 4960,
           "median_price": 2750.0
         },
         "2BR": {
@@ -1837,11 +1837,11 @@
           "median_price": 3250.0
         },
         "3BR": {
-          "count": 3597,
+          "count": 3599,
           "median_price": 3800.0
         },
         "4BR": {
-          "count": 1380,
+          "count": 1381,
           "median_price": 4700.0
         },
         "5BR": {
@@ -1857,7 +1857,7 @@
       "top_towns": [
         [
           "Boston",
-          10365
+          10367
         ],
         [
           "Cambridge",
@@ -1911,7 +1911,7 @@
         "011": 665,
         "105": 438,
         "Beacon Hill": 402,
-        "007": 383,
+        "007": 384,
         "002": 375
       }
     },
@@ -1919,7 +1919,7 @@
       "label": "Multi-Family (Active)",
       "count": 573,
       "total_sold": 0,
-      "total_active": 469,
+      "total_active": 468,
       "sale_price": {
         "median": null,
         "mean": null,
@@ -2251,7 +2251,7 @@
         "CC": {
           "name": "Condo",
           "active": {
-            "count": 130,
+            "count": 129,
             "total_sold": 0,
             "total_active": 104,
             "sale_price": {
@@ -2264,8 +2264,8 @@
               "stdev": null
             },
             "list_price": {
-              "median": 874950.0,
-              "mean": 987863.82
+              "median": 875000.0,
+              "mean": 989948.04
             },
             "price_per_sqft": {
               "median": null,
@@ -2275,7 +2275,7 @@
             },
             "sqft": {
               "median": 1200.0,
-              "mean": 1353.13
+              "mean": 1355.02
             },
             "sp_lp_ratio": null,
             "pct_over_ask": null,
@@ -2291,8 +2291,8 @@
                 "median_price": 825000.0
               },
               "3BR": {
-                "count": 40,
-                "median_price": 1197500.0
+                "count": 39,
+                "median_price": 1200000.0
               },
               "4BR": {
                 "count": 18,
@@ -2303,13 +2303,13 @@
             "top_towns": [
               [
                 "Somerville",
-                130
+                129
               ]
             ],
             "boston_neighborhoods": {}
           },
           "sold": {
-            "count": 115,
+            "count": 116,
             "total_sold": 52,
             "total_active": 0,
             "sale_price": {
@@ -2322,8 +2322,8 @@
               "stdev": 365503.06
             },
             "list_price": {
-              "median": 950000.0,
-              "mean": 981051.17
+              "median": 944500.0,
+              "mean": 978792.1
             },
             "price_per_sqft": {
               "median": 760.94,
@@ -2332,8 +2332,8 @@
               "p75": 865.64
             },
             "sqft": {
-              "median": 1256.0,
-              "mean": 1397.8
+              "median": 1255.5,
+              "mean": 1395.31
             },
             "sp_lp_ratio": 100.0,
             "pct_over_ask": 48.1,
@@ -2349,8 +2349,8 @@
                 "median_price": 849000.0
               },
               "3BR": {
-                "count": 37,
-                "median_price": 1150000.0
+                "count": 38,
+                "median_price": 1125000.0
               },
               "4BR": {
                 "count": 10,
@@ -2368,7 +2368,7 @@
             "top_towns": [
               [
                 "Somerville",
-                115
+                116
               ]
             ],
             "boston_neighborhoods": {}
@@ -2594,7 +2594,7 @@
           }
         }
       },
-      "narrative": "Somerville's market remains exceptionally tight across all property types, with condos leading the charge as the most competitive segment \u2014 half of all condo sales are closing above asking price at a median of $1,007,500, and with 52 units sold in the last 30 days, it's clearly the most active category in the city. Single families are commanding a median of $1,175,000 at 97.9% of list price with 25% selling over ask, while multi-families are fetching a median of $1,300,000 with a third of sales going above list \u2014 a strong signal of continued investor and owner-occupant demand for income-producing properties. With effectively no months of supply reported across all three segments, this is about as inventory-starved as a market can get. Sellers are in a commanding position with near-guaranteed strong offers and minimal days on market, while buyers should expect to move fast, come in at or above list price, and have financing airtight before stepping foot at an open house."
+      "narrative": "Somerville's real estate market remains fiercely competitive across all property types, with condos leading the charge as nearly half \u2014 48.1% \u2014 sold above asking price at a median of $1,007,500 and a perfect 100% sale-to-list ratio. Single families commanded a median of $1,175,000 with 25% of homes closing over ask, while multi-families topped the price ladder at $1,300,000 with a third of sales exceeding list price. Inventory is essentially nonexistent across all segments, meaning buyers must be prepared to move fast, waive contingencies, and bring their strongest offers on day one. For sellers, conditions couldn't be more favorable \u2014 pricing aggressively is warranted, and multiple-offer scenarios remain the norm rather than the exception in this supply-starved Inner Ring market."
     },
     "Cambridge": {
       "neighborhoods": {},
@@ -2862,7 +2862,7 @@
         "RN": {
           "name": "Residential Rental",
           "active": {
-            "count": 347,
+            "count": 348,
             "total_sold": 0,
             "total_active": 298,
             "sale_price": {
@@ -2876,7 +2876,7 @@
             },
             "list_price": {
               "median": 3800.0,
-              "mean": 4472.11
+              "mean": 4470.46
             },
             "price_per_sqft": {
               "median": null,
@@ -2886,7 +2886,7 @@
             },
             "sqft": {
               "median": 950.0,
-              "mean": 2270.86
+              "mean": 2266.55
             },
             "sp_lp_ratio": null,
             "pct_over_ask": null,
@@ -2902,8 +2902,8 @@
                 "median_price": 3800.0
               },
               "3BR": {
-                "count": 82,
-                "median_price": 4600.0
+                "count": 83,
+                "median_price": 4500.0
               },
               "4BR": {
                 "count": 35,
@@ -2922,7 +2922,7 @@
             "top_towns": [
               [
                 "Cambridge",
-                347
+                348
               ]
             ],
             "boston_neighborhoods": {}
@@ -3079,7 +3079,7 @@
           }
         }
       },
-      "narrative": "Cambridge remains one of the most fiercely competitive markets in Greater Boston, with single-family homes commanding a median sale price of $2,460,000 and an astonishing 104.2% sale-to-list ratio \u2014 80% of those homes selling above asking price in the last 30 days alone. The condo market, while slightly more accessible at a $1,050,000 median, still saw 42.2% of its 83 closed sales go over list price, signaling relentless demand across all price points. Multi-family properties are moving at a $2,045,375 median with a 98.5% SP/LP ratio, attracting both investors and owner-occupants drawn to Cambridge's rental strength and long-term appreciation story. With effectively no months of supply across all property types, sellers hold enormous leverage and should expect multiple offers, while buyers need to come in pre-approved, waiver-ready, and prepared to move aggressively above list price to have any realistic chance of winning."
+      "narrative": "Cambridge remains one of the most fiercely competitive markets in Greater Boston, with single-family homes commanding a median sale price of $2,460,000 and a staggering 104.2% sale-to-list ratio \u2014 80% of those homes sold above asking price, signaling near-zero room for negotiation. The condo market, while slightly more accessible at a $1,050,000 median, still saw 42.2% of units close over asking at an even 100% SP/LP ratio across 83 sales in the last 30 days, making it the most active segment in the city. Multi-family properties rounded out the market at a $2,045,375 median with 37.5% selling over ask, reflecting strong investor and owner-occupant demand for income-producing assets. With no measurable months of supply across all property types, sellers hold an extraordinary advantage and should expect swift, competitive offers, while buyers must come prepared with strong financing, pre-approvals in hand, and the flexibility to move decisively \u2014 escalation clauses and waived contingencies remain the norm, not the exception, in Cambridge."
     },
     "Medford": {
       "neighborhoods": {},
@@ -3564,7 +3564,7 @@
           }
         }
       },
-      "narrative": "Medford's real estate market is firing on all cylinders, with single-family homes commanding a median sale price of $961,000 and selling at 104.7% of list price \u2014 a striking 76.5% of those homes selling above asking, signaling intense buyer competition across the city. Condos are holding steady at a $800,000 median with an even sale-to-list ratio, though more than half are still going over ask, while multi-families are leading the pack at $1,168,000 median with 60% selling above list at 102.6% SP/LP. With essentially zero months of supply across all property types and only 37 total sales in the past 30 days, inventory is critically tight, leaving buyers with little room to negotiate and virtually no time to deliberate. Sellers in Medford are in an exceptionally strong position right now \u2014 properly priced listings are generating immediate, competitive offers \u2014 making this one of the most landlord- and seller-favorable conditions the metro has seen in recent memory."
+      "narrative": "Medford's real estate market is firing on all cylinders right now, with single-family homes leading the charge at a median sale price of $961,000 and a remarkable 104.7% sale-to-list ratio \u2014 meaning buyers are routinely paying above asking, with 76.5% of single-family sales closing over list price in the last 30 days. Condos are holding steady at a $800,000 median with an even 100% sale-to-list ratio, while multi-families are the priciest segment at $1,168,000 median, still drawing competitive offers with 60% selling above ask. With essentially no measurable months of supply across all property types and only 37 total sales in the past 30 days, inventory is critically tight, giving sellers exceptional leverage to command top dollar with minimal concessions. Buyers should expect to move fast, come in well above list price \u2014 particularly for single-family homes \u2014 and be prepared for limited negotiating power in what remains one of the most competitive submarkets in the Greater Boston area."
     },
     "Melrose": {
       "neighborhoods": {},
@@ -4017,7 +4017,7 @@
           }
         }
       },
-      "narrative": "Melrose continues to demonstrate fierce demand across all property types, with single-family homes commanding a median sale price of $1,031,800 and an eye-popping 82.6% of those 23 sales closing above asking price at an average of 107.5% of list price. Multi-family properties are equally competitive, with a median sale of $1,208,000 and two-thirds of the 6 transactions going over ask, while condos offer a comparatively accessible entry point at $512,500, though half of those deals still exceeded list price. With essentially no measurable months of supply across all three segments, inventory is critically thin, meaning sellers hold enormous leverage and can realistically expect multiple offers and strong premiums above their asking price. For buyers, Melrose demands aggressive preparation \u2014 pre-approval in hand, waived contingencies on the table, and the flexibility to move quickly \u2014 as hesitation in this market almost certainly means losing out."
+      "narrative": "Melrose continues to demonstrate one of the most competitive markets on the North Shore, with single-family homes commanding a median sale price of $1,031,800 and selling at an average of 107.5% of list price \u2014 meaning buyers are routinely paying tens of thousands above asking, with a striking 82.6% of homes closing over list price across 23 sales in the past 30 days. Multi-family properties are equally in demand at a $1,208,000 median with 66.7% selling over ask, while condos offer a comparatively accessible entry point at $512,500, though even that segment sees half of all units trading above list. With essentially no measurable months of supply across all property types, sellers hold extraordinary leverage and should feel confident pricing aggressively and expecting multiple-offer scenarios. For buyers, success in Melrose demands pre-approval, waived contingencies, and escalation clauses \u2014 hesitation in this market almost certainly means losing out."
     },
     "Arlington": {
       "neighborhoods": {},
@@ -4490,7 +4490,7 @@
           }
         }
       },
-      "narrative": "Arlington's housing market is firing on all cylinders across every property type, with single-family homes commanding a median of $1,217,000 and closing at 105.5% of list price \u2014 70.6% of them selling above asking \u2014 while multi-families are the most competitive segment of all, with 83.3% selling over ask at a striking 109.6% sale-to-list ratio and a median of $1,405,000. Condos, though comparatively tamer at 100% of list price, still saw 40% of units sell above asking with a median of $880,000, and with effectively zero months of supply across all categories, inventory remains a critical constraint. For sellers, Arlington is about as favorable as it gets \u2014 well-priced listings are generating multiple offers and meaningful premiums with minimal time on market. Buyers should come prepared with pre-approvals locked, escalation clauses ready, and realistic expectations of waiving contingencies, as hesitation in this market almost certainly means losing out."
+      "narrative": "Arlington remains one of Greater Boston's most fiercely competitive markets, with single-family homes selling at a median of $1,217,000 and fetching 105.5% of list price \u2014 with nearly 71% of homes closing above asking. Multi-family properties are even hotter, with a median sale price of $1,405,000 and an extraordinary 109.6% sale-to-list ratio, as 83% of those properties drew offers over ask. Condos offer a relatively calmer entry point at a $880,000 median with an even 100% sale-to-list ratio, though 40% still sold above list price. With essentially no months of supply across all property types and 48 total sales in just the past 30 days, sellers hold enormous leverage, while buyers should expect to move quickly, waive contingencies, and come prepared to bid well above list price to be competitive."
     },
     "Belmont": {
       "neighborhoods": {},
@@ -4745,7 +4745,7 @@
         "RN": {
           "name": "Residential Rental",
           "active": {
-            "count": 44,
+            "count": 43,
             "total_sold": 0,
             "total_active": 35,
             "sale_price": {
@@ -4758,8 +4758,8 @@
               "stdev": null
             },
             "list_price": {
-              "median": 4250.0,
-              "mean": 5849.41
+              "median": 4200.0,
+              "mean": 5850.56
             },
             "price_per_sqft": {
               "median": null,
@@ -4768,8 +4768,8 @@
               "p75": null
             },
             "sqft": {
-              "median": 1537.0,
-              "mean": 2299.64
+              "median": 1536.0,
+              "mean": 2309.4
             },
             "sp_lp_ratio": null,
             "pct_over_ask": null,
@@ -4789,8 +4789,8 @@
                 "median_price": 3975.0
               },
               "4BR": {
-                "count": 7,
-                "median_price": 6600.0
+                "count": 6,
+                "median_price": 7150.0
               },
               "5BR": {
                 "count": 7,
@@ -4805,13 +4805,13 @@
             "top_towns": [
               [
                 "Belmont",
-                44
+                43
               ]
             ],
             "boston_neighborhoods": {}
           },
           "sold": {
-            "count": 36,
+            "count": 37,
             "total_sold": 0,
             "total_active": 0,
             "sale_price": {
@@ -4825,7 +4825,7 @@
             },
             "list_price": {
               "median": 3400.0,
-              "mean": 4059.17
+              "mean": 4106.22
             },
             "price_per_sqft": {
               "median": null,
@@ -4834,8 +4834,8 @@
               "p75": null
             },
             "sqft": {
-              "median": 1647.0,
-              "mean": 1851.47
+              "median": 1671.0,
+              "mean": 1852.24
             },
             "sp_lp_ratio": null,
             "pct_over_ask": null,
@@ -4855,8 +4855,8 @@
                 "median_price": 5000.0
               },
               "4BR": {
-                "count": 4,
-                "median_price": 6000.0
+                "count": 5,
+                "median_price": 5800.0
               },
               "5BR": {
                 "count": 2,
@@ -4867,7 +4867,7 @@
             "top_towns": [
               [
                 "Belmont",
-                36
+                37
               ]
             ],
             "boston_neighborhoods": {}
@@ -4962,7 +4962,7 @@
           }
         }
       },
-      "narrative": "Belmont's real estate market remains fiercely competitive across all property types, with single-family homes posting a median sale price of $1,451,000 and 75% of properties selling over asking price at an average of 104.2% of list price \u2014 a clear signal that demand is dramatically outpacing supply. Multi-family properties are actually seeing even more aggressive bidding, with a sale-to-list ratio of 105.9% and three out of four selling above ask at a median of $1,415,500, reflecting strong investor and owner-occupant interest in this transit-friendly community. Condos offer a comparatively softer entry point at $775,000 with only 33.3% selling over ask, though a 99% sale-to-list ratio confirms there's little room for negotiation even in that segment. For sellers, this is an exceptional moment to list with virtually no inventory sitting on the market, while buyers should arrive fully pre-approved, waiver-ready, and prepared to move decisively \u2014 hesitation in Belmont right now is costly."
+      "narrative": "Belmont remains one of Greater Boston's most fiercely competitive markets, with single-family homes selling at a median of $1,451,000 and fetching 104.2% of list price, with a striking 75% of properties closing above asking \u2014 a clear signal that buyers are routinely entering bidding wars just to get to the table. Multi-family properties are even hotter, averaging 105.9% of list price at a median of $1,415,500, making them a compelling but increasingly expensive play for investor-occupants. The condo segment offers a relative foothold at a $775,000 median and 99% of list price, though even there, a third of units are going over ask. With effectively zero months of supply across all property types and only 15 total sales in the past 30 days, inventory is essentially nonexistent \u2014 sellers hold all the leverage here, while buyers should come pre-approved, waiver-ready, and prepared to move fast."
     },
     "Watertown": {
       "neighborhoods": {},
@@ -5427,7 +5427,7 @@
           }
         }
       },
-      "narrative": "Watertown's real estate market remains fiercely competitive across all property types, with single-family homes commanding a median sale price of $975,000 and 66.7% of properties selling above asking price at a 100.1% sale-to-list ratio \u2014 a clear signal that buyer demand is far outpacing available inventory. Condos offer a relatively more accessible entry point at a $695,230 median with an even split of 50% selling over ask, while multi-family properties are the hottest segment, fetching a median of $1,325,000 with 66.7% over ask and a 101.1% SP/LP ratio. With effectively zero months of supply reported across all categories and only 38 total transactions in the past 30 days, inventory is critically constrained. Sellers are in an exceptionally strong position to command top dollar with minimal concessions, while buyers should expect to compete aggressively, come in at or above list price, and move quickly with clean, well-prepared offers."
+      "narrative": "Watertown's real estate market remains intensely competitive across all property types, with single-family homes closing at a median of $975,000 and 66.7% of sales going over asking price at an average of 100.1% of list price. Condos are moving briskly at a median of $695,230 with half of all 26 sales in the past 30 days exceeding list price, while multi-families command a steep $1,325,000 median with 66.7% selling above ask at 101.1% SP/LP \u2014 signaling strong investor and house-hacker demand. With effectively no measurable months of supply across all categories, this is a deeply supply-constrained market that heavily favors sellers, who can expect full-price or better offers and swift transactions. Buyers should come prepared with pre-approvals, flexible terms, and escalation clauses, as hesitation in Watertown almost certainly means losing out to competing offers."
     },
     "Winchester": {
       "neighborhoods": {},
@@ -5865,7 +5865,7 @@
           "sold": {}
         }
       },
-      "narrative": "Winchester's single-family market is firing on all cylinders, with a median sale price of $1,523,575 and homes closing at 101.2% of list price \u2014 60% of them selling above asking in the last 30 days. The condo segment is even more competitive, with a median of $971,500, a 103.7% sale-to-list ratio, and a striking 75% of units trading over ask. With effectively zero months of supply across both property types and 28 combined sales in the past month, inventory is essentially nonexistent, giving sellers extraordinary leverage to price confidently and attract multiple offers. For buyers, Winchester demands sharp pre-approval, swift decision-making, and a willingness to stretch above list price \u2014 hesitation in this market almost certainly means losing out."
+      "narrative": "Winchester's single-family market remains fiercely competitive, with a median sale price of $1,523,575 and homes selling at 101.2% of list price \u2014 60% of them closing above asking in the last 30 days. Condos are even hotter, with a median of $971,500, a 103.7% sale-to-list ratio, and a striking 75% of units selling over ask across 8 sales this month. Inventory is essentially nonexistent in both segments, meaning sellers hold all the cards and can expect strong offers with favorable terms in short order. Buyers should come prepared with pre-approvals locked in, escalation clauses ready, and realistic expectations that sticker price is truly just the starting point in Winchester right now."
     },
     "Boston": {
       "neighborhoods": {
@@ -5882,8 +5882,8 @@
           "median_price": 5900.0
         },
         "007": {
-          "count": 206,
-          "median_price": 527000.0
+          "count": 207,
+          "median_price": 525000.0
         },
         "011": {
           "count": 198,
@@ -5922,7 +5922,7 @@
         "SF": {
           "name": "Single Family",
           "active": {
-            "count": 241,
+            "count": 242,
             "total_sold": 0,
             "total_active": 187,
             "sale_price": {
@@ -5936,7 +5936,7 @@
             },
             "list_price": {
               "median": 1195000.0,
-              "mean": 2564900.72
+              "mean": 2568744.1
             },
             "price_per_sqft": {
               "median": null,
@@ -5945,8 +5945,8 @@
               "p75": null
             },
             "sqft": {
-              "median": 2216.0,
-              "mean": 2635.51
+              "median": 2225.0,
+              "mean": 2637.56
             },
             "sp_lp_ratio": null,
             "pct_over_ask": null,
@@ -5962,8 +5962,8 @@
                 "median_price": 921500.0
               },
               "4BR": {
-                "count": 78,
-                "median_price": 1612450.0
+                "count": 79,
+                "median_price": 1625000.0
               },
               "5BR": {
                 "count": 43,
@@ -5978,7 +5978,7 @@
             "top_towns": [
               [
                 "Boston",
-                241
+                242
               ]
             ],
             "boston_neighborhoods": {
@@ -5989,7 +5989,7 @@
               "007": 17,
               "101": 15,
               "006": 14,
-              "104": 9
+              "104": 10
             }
           },
           "sold": {
@@ -6070,9 +6070,9 @@
         "CC": {
           "name": "Condo",
           "active": {
-            "count": 1746,
+            "count": 1747,
             "total_sold": 0,
-            "total_active": 1477,
+            "total_active": 1473,
             "sale_price": {
               "median": null,
               "mean": null,
@@ -6084,7 +6084,7 @@
             },
             "list_price": {
               "median": 850000.0,
-              "mean": 1521646.43
+              "mean": 1521364.43
             },
             "price_per_sqft": {
               "median": null,
@@ -6094,7 +6094,7 @@
             },
             "sqft": {
               "median": 1066.0,
-              "mean": 1269.61
+              "mean": 1269.34
             },
             "sp_lp_ratio": null,
             "pct_over_ask": null,
@@ -6106,8 +6106,8 @@
                 "median_price": 689000.0
               },
               "2BR": {
-                "count": 763,
-                "median_price": 925000.0
+                "count": 764,
+                "median_price": 927000.0
               },
               "3BR": {
                 "count": 369,
@@ -6130,7 +6130,7 @@
             "top_towns": [
               [
                 "Boston",
-                1746
+                1747
               ]
             ],
             "boston_neighborhoods": {
@@ -6141,7 +6141,7 @@
               "108": 82,
               "007": 78,
               "113": 75,
-              "Beacon Hill": 71
+              "Beacon Hill": 72
             }
           },
           "sold": {
@@ -6222,9 +6222,9 @@
         "RN": {
           "name": "Residential Rental",
           "active": {
-            "count": 3000,
+            "count": 3001,
             "total_sold": 0,
-            "total_active": 2546,
+            "total_active": 2544,
             "sale_price": {
               "median": null,
               "mean": null,
@@ -6236,7 +6236,7 @@
             },
             "list_price": {
               "median": 3500.0,
-              "mean": 3938.71
+              "mean": 3938.35
             },
             "price_per_sqft": {
               "median": null,
@@ -6246,7 +6246,7 @@
             },
             "sqft": {
               "median": 1000.0,
-              "mean": 3489.28
+              "mean": 3488.19
             },
             "sp_lp_ratio": null,
             "pct_over_ask": null,
@@ -6254,7 +6254,7 @@
             "avg_monthly_sales": null,
             "bedroom_breakdown": {
               "1BR": {
-                "count": 607,
+                "count": 608,
                 "median_price": 2950.0
               },
               "2BR": {
@@ -6282,22 +6282,22 @@
             "top_towns": [
               [
                 "Boston",
-                3000
+                3001
               ]
             ],
             "boston_neighborhoods": {
               "011": 198,
               "005": 181,
-              "002": 144,
+              "002": 145,
               "101": 140,
               "010": 138,
               "105": 130,
-              "104": 124,
-              "007": 98
+              "104": 125,
+              "007": 97
             }
           },
           "sold": {
-            "count": 1927,
+            "count": 1929,
             "total_sold": 0,
             "total_active": 0,
             "sale_price": {
@@ -6311,7 +6311,7 @@
             },
             "list_price": {
               "median": 3500.0,
-              "mean": 3964.14
+              "mean": 3963.79
             },
             "price_per_sqft": {
               "median": null,
@@ -6321,7 +6321,7 @@
             },
             "sqft": {
               "median": 950.0,
-              "mean": 3770.64
+              "mean": 3767.85
             },
             "sp_lp_ratio": null,
             "pct_over_ask": null,
@@ -6329,7 +6329,7 @@
             "avg_monthly_sales": null,
             "bedroom_breakdown": {
               "1BR": {
-                "count": 555,
+                "count": 556,
                 "median_price": 2995.0
               },
               "2BR": {
@@ -6337,7 +6337,7 @@
                 "median_price": 3700.0
               },
               "3BR": {
-                "count": 340,
+                "count": 341,
                 "median_price": 4100.0
               },
               "4BR": {
@@ -6357,7 +6357,7 @@
             "top_towns": [
               [
                 "Boston",
-                1927
+                1929
               ]
             ],
             "boston_neighborhoods": {
@@ -6366,7 +6366,7 @@
               "011": 127,
               "104": 104,
               "105": 98,
-              "007": 90,
+              "007": 91,
               "North End": 90,
               "010": 73
             }
@@ -6479,7 +6479,7 @@
           }
         }
       },
-      "narrative": "Boston's real estate market remains intensely competitive across all property types, with single-family homes commanding a median sale price of $922,000 and selling at 101.1% of list price \u2014 with nearly 57% of homes closing above asking, signaling fierce buyer competition. Condos, the most active segment with 366 sales in the past 30 days, are moving at a median of $800,000 and a 99.5% sale-to-list ratio, while multi-families lead in price at $1,175,000 with 42.9% selling over ask. With effectively zero months of supply across all three property types, inventory is critically constrained, leaving buyers facing bidding wars and little room to negotiate regardless of which segment they're targeting. For sellers, conditions couldn't be more favorable \u2014 properly priced homes are essentially selling at or above list price with strong velocity, making this an ideal time to bring a property to market."
+      "narrative": "Boston's real estate market remains intensely competitive across all property types, with single-family homes commanding a median sale price of $922,000 and selling at 101.1% of list price \u2014 with a remarkable 56.9% of homes closing above asking. Condos are the most active segment with 366 sales in the past 30 days at a median of $800,000, while multi-family properties are fetching a median of $1,175,000 with 42.9% selling over ask, reflecting strong investor and house-hacker demand. With effectively no measurable months of supply across all three categories, this is an unambiguously seller's market where well-priced properties are drawing multiple offers and leaving little room for negotiation. Buyers should come prepared with strong pre-approvals, escalation clauses, and realistic expectations about bidding wars, while sellers are in an enviable position to maximize returns \u2014 particularly those listing single-family homes, where the over-ask rate is the highest of any property type in the city."
     }
   },
   "individual_listings": {
@@ -9403,6 +9403,69 @@
             "sqft": "2,125",
             "ppsf": "$530/sqft",
             "beds": 3
+          }
+        ]
+      },
+      {
+        "PROP_TYPE": "SF",
+        "LIST_NO": "73532800",
+        "STATUS": "NEW",
+        "LIST_PRICE": "3495000",
+        "STREET_NO": "103",
+        "STREET_NAME": "West Springfield Street",
+        "TOWN_NUM": "1",
+        "AREA": "104",
+        "ZIP_CODE": "02118",
+        "NO_BEDROOMS": "4",
+        "NO_FULL_BATHS": "3",
+        "NO_HALF_BATHS": "1",
+        "SQUARE_FEET": "3132",
+        "ACRE": "0.02",
+        "LOT_SIZE": "968",
+        "STYLE": "H,Q,5",
+        "BASEMENT": "N",
+        "GARAGE_SPACES": "3",
+        "TAXES": "19911.93",
+        "LENDER_OWNED": "N",
+        "WATERFRONT_FLAG": "N",
+        "LIST_PRICE_PER_SQFT": 1116.0,
+        "TOWN_NAME": "Boston",
+        "STATUS_LABEL": "NEW",
+        "STYLE_LABEL": "H,Q,5",
+        "BASEMENT_LABEL": "No",
+        "NEIGHBORHOOD": "104",
+        "ADDRESS": "103 West Springfield Street",
+        "BED_BATH": "4BR / 3.5BA",
+        "PRICE_TIER": "Luxury ($2M+)",
+        "VS_MARKET_MEDIAN": "223.6% above market median ($1,080,000)",
+        "SIZE_LABEL": "Large (3,132 sqft)",
+        "comparable_sales": [
+          {
+            "address": "138 W 3rd St",
+            "sold_date": "6/9/2026",
+            "sale_price": "$2,050,000",
+            "sp_lp": "95.3%",
+            "sqft": "2,720",
+            "ppsf": "$754/sqft",
+            "beds": 3
+          },
+          {
+            "address": "79 Huron Cir",
+            "sold_date": "6/5/2026",
+            "sale_price": "$1,125,750",
+            "sp_lp": "90.1%",
+            "sqft": "2,125",
+            "ppsf": "$530/sqft",
+            "beds": 3
+          },
+          {
+            "address": "2 Pacific Street",
+            "sold_date": "6/5/2026",
+            "sale_price": "$1,850,000",
+            "sp_lp": "92.5%",
+            "sqft": "2,217",
+            "ppsf": "$834/sqft",
+            "beds": 5
           }
         ]
       },
@@ -15543,68 +15606,6 @@
             "sqft": "2,094",
             "ppsf": "$378/sqft",
             "beds": 5
-          }
-        ]
-      },
-      {
-        "PROP_TYPE": "SF",
-        "LIST_NO": "73507305",
-        "STATUS": "ACT",
-        "LIST_PRICE": "969000",
-        "STREET_NO": "21",
-        "STREET_NAME": "Starr Ln",
-        "TOWN_NUM": "1",
-        "AREA": "007",
-        "ZIP_CODE": "02130",
-        "NO_BEDROOMS": "3",
-        "NO_FULL_BATHS": "1",
-        "SQUARE_FEET": "1292",
-        "ACRE": "0.05",
-        "LOT_SIZE": "2065",
-        "STYLE": "A",
-        "BASEMENT": "Y",
-        "GARAGE_SPACES": "1",
-        "TAXES": "7772",
-        "LENDER_OWNED": "N",
-        "WATERFRONT_FLAG": "N",
-        "LIST_PRICE_PER_SQFT": 750.0,
-        "TOWN_NAME": "Boston",
-        "STATUS_LABEL": "Active",
-        "STYLE_LABEL": "Colonial",
-        "BASEMENT_LABEL": "Yes",
-        "NEIGHBORHOOD": "007",
-        "ADDRESS": "21 Starr Ln",
-        "BED_BATH": "3BR / 1BA",
-        "PRICE_TIER": "Upper-Mid ($800K\u2013$1.2M)",
-        "VS_MARKET_MEDIAN": "10.3% below market median ($1,080,000)",
-        "SIZE_LABEL": "Mid-size (1,200\u20131,800 sqft)",
-        "comparable_sales": [
-          {
-            "address": "160 Glenellen Rd",
-            "sold_date": "6/9/2026",
-            "sale_price": "$645,000",
-            "sp_lp": "102.5%",
-            "sqft": "1,216",
-            "ppsf": "$530/sqft",
-            "beds": 2
-          },
-          {
-            "address": "111 Montclair Ave",
-            "sold_date": "6/8/2026",
-            "sale_price": "$790,000",
-            "sp_lp": "104.1%",
-            "sqft": "1,248",
-            "ppsf": "$633/sqft",
-            "beds": 3
-          },
-          {
-            "address": "115 Windham Rd",
-            "sold_date": "6/5/2026",
-            "sale_price": "$535,000",
-            "sp_lp": "100.0%",
-            "sqft": "1,224",
-            "ppsf": "$437/sqft",
-            "beds": 3
           }
         ]
       },
@@ -64722,67 +64723,6 @@
       },
       {
         "PROP_TYPE": "CC",
-        "LIST_NO": "73521062",
-        "STATUS": "CTG",
-        "LIST_PRICE": "719000",
-        "STREET_NO": "3",
-        "STREET_NAME": "Heath St",
-        "UNIT_NO": "2",
-        "TOWN_NUM": "17",
-        "AREA": "WTH",
-        "ZIP_CODE": "02145",
-        "NO_BEDROOMS": "3",
-        "NO_FULL_BATHS": "1",
-        "SQUARE_FEET": "1109",
-        "STYLE": "I",
-        "BASEMENT": "Y",
-        "TAXES": "6966",
-        "HOA_FEE": "189.39",
-        "LENDER_OWNED": "N",
-        "WATERFRONT_FLAG": "N",
-        "LIST_PRICE_PER_SQFT": 648.0,
-        "TOWN_NAME": "Somerville",
-        "STATUS_LABEL": "Contingent",
-        "STYLE_LABEL": "I",
-        "BASEMENT_LABEL": "Yes",
-        "NEIGHBORHOOD": "WTH",
-        "ADDRESS": "3 Heath St Unit 2",
-        "BED_BATH": "3BR / 1BA",
-        "PRICE_TIER": "Mid-Market ($500K\u2013$800K)",
-        "VS_MARKET_MEDIAN": "12.3% below market median ($820,000)",
-        "SIZE_LABEL": "Compact (800\u20131,200 sqft)",
-        "comparable_sales": [
-          {
-            "address": "58-60 Elmwood",
-            "sold_date": "6/8/2026",
-            "sale_price": "$775,000",
-            "sp_lp": "104.0%",
-            "sqft": "848",
-            "ppsf": "$914/sqft",
-            "beds": 2
-          },
-          {
-            "address": "355 Highland Avenue",
-            "sold_date": "6/5/2026",
-            "sale_price": "$633,000",
-            "sp_lp": "105.7%",
-            "sqft": "846",
-            "ppsf": "$748/sqft",
-            "beds": 2
-          },
-          {
-            "address": "111 Beacon Street",
-            "sold_date": "6/5/2026",
-            "sale_price": "$1,180,000",
-            "sp_lp": "98.7%",
-            "sqft": "1,267",
-            "ppsf": "$931/sqft",
-            "beds": 2
-          }
-        ]
-      },
-      {
-        "PROP_TYPE": "CC",
         "LIST_NO": "73500444",
         "STATUS": "EXT",
         "LIST_PRICE": "715000",
@@ -88777,12 +88717,12 @@
             "beds": 3
           },
           {
-            "address": "218 West 6th st",
+            "address": "18 Hyde Park Ave",
             "sold_date": "6/9/2026",
-            "sale_price": "$4,800",
+            "sale_price": "$2,995",
             "sp_lp": "100.0%",
             "sqft": "1,000",
-            "ppsf": "$5/sqft",
+            "ppsf": "$3/sqft",
             "beds": 3
           }
         ]
@@ -88946,12 +88886,12 @@
             "beds": 3
           },
           {
-            "address": "218 West 6th st",
+            "address": "18 Hyde Park Ave",
             "sold_date": "6/9/2026",
-            "sale_price": "$4,800",
+            "sale_price": "$2,995",
             "sp_lp": "100.0%",
             "sqft": "1,000",
-            "ppsf": "$5/sqft",
+            "ppsf": "$3/sqft",
             "beds": 3
           }
         ]
@@ -89231,12 +89171,12 @@
             "beds": 3
           },
           {
-            "address": "218 West 6th st",
+            "address": "18 Hyde Park Ave",
             "sold_date": "6/9/2026",
-            "sale_price": "$4,800",
+            "sale_price": "$2,995",
             "sp_lp": "100.0%",
             "sqft": "1,000",
-            "ppsf": "$5/sqft",
+            "ppsf": "$3/sqft",
             "beds": 3
           }
         ]
@@ -89516,12 +89456,12 @@
             "beds": 3
           },
           {
-            "address": "218 West 6th st",
+            "address": "18 Hyde Park Ave",
             "sold_date": "6/9/2026",
-            "sale_price": "$4,800",
+            "sale_price": "$2,995",
             "sp_lp": "100.0%",
             "sqft": "1,000",
-            "ppsf": "$5/sqft",
+            "ppsf": "$3/sqft",
             "beds": 3
           }
         ]
@@ -89744,12 +89684,12 @@
             "beds": 3
           },
           {
-            "address": "218 West 6th st",
+            "address": "18 Hyde Park Ave",
             "sold_date": "6/9/2026",
-            "sale_price": "$4,800",
+            "sale_price": "$2,995",
             "sp_lp": "100.0%",
             "sqft": "1,000",
-            "ppsf": "$5/sqft",
+            "ppsf": "$3/sqft",
             "beds": 3
           }
         ]
@@ -89848,6 +89788,15 @@
             "beds": 3
           },
           {
+            "address": "18 Hyde Park Ave",
+            "sold_date": "6/9/2026",
+            "sale_price": "$2,995",
+            "sp_lp": "100.0%",
+            "sqft": "1,000",
+            "ppsf": "$3/sqft",
+            "beds": 3
+          },
+          {
             "address": "218 West 6th st",
             "sold_date": "6/9/2026",
             "sale_price": "$4,800",
@@ -89855,15 +89804,6 @@
             "sqft": "1,000",
             "ppsf": "$5/sqft",
             "beds": 3
-          },
-          {
-            "address": "9 Everett St",
-            "sold_date": "6/8/2026",
-            "sale_price": "$3,415",
-            "sp_lp": "100.0%",
-            "sqft": "1,200",
-            "ppsf": "$3/sqft",
-            "beds": 2
           }
         ]
       },
@@ -90139,12 +90079,12 @@
             "beds": 2
           },
           {
-            "address": "883 Harrison Ave",
+            "address": "18 Hyde Park Ave",
             "sold_date": "6/9/2026",
-            "sale_price": "$3,500",
+            "sale_price": "$2,995",
             "sp_lp": "100.0%",
-            "sqft": "800",
-            "ppsf": "$4/sqft",
+            "sqft": "1,000",
+            "ppsf": "$3/sqft",
             "beds": 3
           }
         ]
@@ -90469,6 +90409,15 @@
             "beds": 3
           },
           {
+            "address": "18 Hyde Park Ave",
+            "sold_date": "6/9/2026",
+            "sale_price": "$2,995",
+            "sp_lp": "100.0%",
+            "sqft": "1,000",
+            "ppsf": "$3/sqft",
+            "beds": 3
+          },
+          {
             "address": "218 West 6th st",
             "sold_date": "6/9/2026",
             "sale_price": "$4,800",
@@ -90476,15 +90425,6 @@
             "sqft": "1,000",
             "ppsf": "$5/sqft",
             "beds": 3
-          },
-          {
-            "address": "9 Everett St",
-            "sold_date": "6/8/2026",
-            "sale_price": "$3,415",
-            "sp_lp": "100.0%",
-            "sqft": "1,200",
-            "ppsf": "$3/sqft",
-            "beds": 2
           }
         ]
       },
@@ -90980,12 +90920,12 @@
             "beds": 2
           },
           {
-            "address": "883 Harrison Ave",
+            "address": "18 Hyde Park Ave",
             "sold_date": "6/9/2026",
-            "sale_price": "$3,500",
+            "sale_price": "$2,995",
             "sp_lp": "100.0%",
-            "sqft": "800",
-            "ppsf": "$4/sqft",
+            "sqft": "1,000",
+            "ppsf": "$3/sqft",
             "beds": 3
           }
         ]
@@ -91264,12 +91204,12 @@
             "beds": 2
           },
           {
-            "address": "883 Harrison Ave",
+            "address": "18 Hyde Park Ave",
             "sold_date": "6/9/2026",
-            "sale_price": "$3,500",
+            "sale_price": "$2,995",
             "sp_lp": "100.0%",
-            "sqft": "800",
-            "ppsf": "$4/sqft",
+            "sqft": "1,000",
+            "ppsf": "$3/sqft",
             "beds": 3
           }
         ]
@@ -91376,12 +91316,12 @@
             "beds": 3
           },
           {
-            "address": "218 West 6th st",
+            "address": "18 Hyde Park Ave",
             "sold_date": "6/9/2026",
-            "sale_price": "$4,800",
+            "sale_price": "$2,995",
             "sp_lp": "100.0%",
             "sqft": "1,000",
-            "ppsf": "$5/sqft",
+            "ppsf": "$3/sqft",
             "beds": 3
           }
         ]
@@ -91432,12 +91372,12 @@
             "beds": 3
           },
           {
-            "address": "218 West 6th st",
+            "address": "18 Hyde Park Ave",
             "sold_date": "6/9/2026",
-            "sale_price": "$4,800",
+            "sale_price": "$2,995",
             "sp_lp": "100.0%",
             "sqft": "1,000",
-            "ppsf": "$5/sqft",
+            "ppsf": "$3/sqft",
             "beds": 3
           }
         ]
@@ -92635,12 +92575,12 @@
             "beds": 2
           },
           {
-            "address": "883 Harrison Ave",
+            "address": "18 Hyde Park Ave",
             "sold_date": "6/9/2026",
-            "sale_price": "$3,500",
+            "sale_price": "$2,995",
             "sp_lp": "100.0%",
-            "sqft": "800",
-            "ppsf": "$4/sqft",
+            "sqft": "1,000",
+            "ppsf": "$3/sqft",
             "beds": 3
           }
         ]
@@ -92749,12 +92689,12 @@
             "beds": 2
           },
           {
-            "address": "883 Harrison Ave",
+            "address": "18 Hyde Park Ave",
             "sold_date": "6/9/2026",
-            "sale_price": "$3,500",
+            "sale_price": "$2,995",
             "sp_lp": "100.0%",
-            "sqft": "800",
-            "ppsf": "$4/sqft",
+            "sqft": "1,000",
+            "ppsf": "$3/sqft",
             "beds": 3
           }
         ]
@@ -93186,21 +93126,21 @@
             "beds": 3
           },
           {
+            "address": "18 Hyde Park Ave",
+            "sold_date": "6/9/2026",
+            "sale_price": "$2,995",
+            "sp_lp": "100.0%",
+            "sqft": "1,000",
+            "ppsf": "$3/sqft",
+            "beds": 3
+          },
+          {
             "address": "883 Harrison Ave",
             "sold_date": "6/9/2026",
             "sale_price": "$3,500",
             "sp_lp": "100.0%",
             "sqft": "800",
             "ppsf": "$4/sqft",
-            "beds": 3
-          },
-          {
-            "address": "218 West 6th st",
-            "sold_date": "6/9/2026",
-            "sale_price": "$4,800",
-            "sp_lp": "100.0%",
-            "sqft": "1,000",
-            "ppsf": "$5/sqft",
             "beds": 3
           }
         ]
@@ -93513,21 +93453,21 @@
             "beds": 3
           },
           {
+            "address": "18 Hyde Park Ave",
+            "sold_date": "6/9/2026",
+            "sale_price": "$2,995",
+            "sp_lp": "100.0%",
+            "sqft": "1,000",
+            "ppsf": "$3/sqft",
+            "beds": 3
+          },
+          {
             "address": "883 Harrison Ave",
             "sold_date": "6/9/2026",
             "sale_price": "$3,500",
             "sp_lp": "100.0%",
             "sqft": "800",
             "ppsf": "$4/sqft",
-            "beds": 3
-          },
-          {
-            "address": "218 West 6th st",
-            "sold_date": "6/9/2026",
-            "sale_price": "$4,800",
-            "sp_lp": "100.0%",
-            "sqft": "1,000",
-            "ppsf": "$5/sqft",
             "beds": 3
           }
         ]
@@ -93625,21 +93565,21 @@
             "beds": 3
           },
           {
+            "address": "18 Hyde Park Ave",
+            "sold_date": "6/9/2026",
+            "sale_price": "$2,995",
+            "sp_lp": "100.0%",
+            "sqft": "1,000",
+            "ppsf": "$3/sqft",
+            "beds": 3
+          },
+          {
             "address": "883 Harrison Ave",
             "sold_date": "6/9/2026",
             "sale_price": "$3,500",
             "sp_lp": "100.0%",
             "sqft": "800",
             "ppsf": "$4/sqft",
-            "beds": 3
-          },
-          {
-            "address": "218 West 6th st",
-            "sold_date": "6/9/2026",
-            "sale_price": "$4,800",
-            "sp_lp": "100.0%",
-            "sqft": "1,000",
-            "ppsf": "$5/sqft",
             "beds": 3
           }
         ]
@@ -93841,21 +93781,21 @@
             "beds": 3
           },
           {
+            "address": "18 Hyde Park Ave",
+            "sold_date": "6/9/2026",
+            "sale_price": "$2,995",
+            "sp_lp": "100.0%",
+            "sqft": "1,000",
+            "ppsf": "$3/sqft",
+            "beds": 3
+          },
+          {
             "address": "883 Harrison Ave",
             "sold_date": "6/9/2026",
             "sale_price": "$3,500",
             "sp_lp": "100.0%",
             "sqft": "800",
             "ppsf": "$4/sqft",
-            "beds": 3
-          },
-          {
-            "address": "218 West 6th st",
-            "sold_date": "6/9/2026",
-            "sale_price": "$4,800",
-            "sp_lp": "100.0%",
-            "sqft": "1,000",
-            "ppsf": "$5/sqft",
             "beds": 3
           }
         ]
@@ -94337,12 +94277,12 @@
             "beds": 3
           },
           {
-            "address": "218 West 6th st",
+            "address": "18 Hyde Park Ave",
             "sold_date": "6/9/2026",
-            "sale_price": "$4,800",
+            "sale_price": "$2,995",
             "sp_lp": "100.0%",
             "sqft": "1,000",
-            "ppsf": "$5/sqft",
+            "ppsf": "$3/sqft",
             "beds": 3
           }
         ]
@@ -94393,12 +94333,12 @@
             "beds": 3
           },
           {
-            "address": "218 West 6th st",
+            "address": "18 Hyde Park Ave",
             "sold_date": "6/9/2026",
-            "sale_price": "$4,800",
+            "sale_price": "$2,995",
             "sp_lp": "100.0%",
             "sqft": "1,000",
-            "ppsf": "$5/sqft",
+            "ppsf": "$3/sqft",
             "beds": 3
           }
         ]
@@ -95387,12 +95327,12 @@
             "beds": 5
           },
           {
-            "address": "883 Harrison Ave",
+            "address": "18 Hyde Park Ave",
             "sold_date": "6/9/2026",
-            "sale_price": "$3,500",
+            "sale_price": "$2,995",
             "sp_lp": "100.0%",
-            "sqft": "800",
-            "ppsf": "$4/sqft",
+            "sqft": "1,000",
+            "ppsf": "$3/sqft",
             "beds": 3
           }
         ]
@@ -96109,12 +96049,12 @@
             "beds": 2
           },
           {
-            "address": "883 Harrison Ave",
+            "address": "18 Hyde Park Ave",
             "sold_date": "6/9/2026",
-            "sale_price": "$3,500",
+            "sale_price": "$2,995",
             "sp_lp": "100.0%",
-            "sqft": "800",
-            "ppsf": "$4/sqft",
+            "sqft": "1,000",
+            "ppsf": "$3/sqft",
             "beds": 3
           }
         ]
@@ -127904,6 +127844,15 @@
         "SIZE_LABEL": "Large (2,859 sqft)",
         "comparable_sales": [
           {
+            "address": "35 Trapelo Road",
+            "sold_date": "6/9/2026",
+            "sale_price": "$5,800",
+            "sp_lp": "100.0%",
+            "sqft": "1,880",
+            "ppsf": "$3/sqft",
+            "beds": 4
+          },
+          {
             "address": "9 Grant",
             "sold_date": "5/18/2026",
             "sale_price": "$6,200",
@@ -127920,15 +127869,6 @@
             "sqft": "3,665",
             "ppsf": "$2/sqft",
             "beds": 5
-          },
-          {
-            "address": "17 Willow St.",
-            "sold_date": "4/30/2026",
-            "sale_price": "$8,000",
-            "sp_lp": "100.0%",
-            "sqft": "3,200",
-            "ppsf": "$2/sqft",
-            "beds": 4
           }
         ]
       },
@@ -128059,6 +127999,15 @@
         "SIZE_LABEL": "Large (2,500 sqft)",
         "comparable_sales": [
           {
+            "address": "35 Trapelo Road",
+            "sold_date": "6/9/2026",
+            "sale_price": "$5,800",
+            "sp_lp": "100.0%",
+            "sqft": "1,880",
+            "ppsf": "$3/sqft",
+            "beds": 4
+          },
+          {
             "address": "287 Washington St",
             "sold_date": "6/8/2026",
             "sale_price": "$5,000",
@@ -128073,15 +128022,6 @@
             "sale_price": "$5,300",
             "sp_lp": "100.0%",
             "sqft": "1,671",
-            "ppsf": "$3/sqft",
-            "beds": 3
-          },
-          {
-            "address": "59 Richardson Road",
-            "sold_date": "6/2/2026",
-            "sale_price": "$6,000",
-            "sp_lp": "100.0%",
-            "sqft": "2,093",
             "ppsf": "$3/sqft",
             "beds": 3
           }
@@ -128222,6 +128162,15 @@
         "SIZE_LABEL": "Mid-size (1,200\u20131,800 sqft)",
         "comparable_sales": [
           {
+            "address": "35 Trapelo Road",
+            "sold_date": "6/9/2026",
+            "sale_price": "$5,800",
+            "sp_lp": "100.0%",
+            "sqft": "1,880",
+            "ppsf": "$3/sqft",
+            "beds": 4
+          },
+          {
             "address": "287 Washington St",
             "sold_date": "6/8/2026",
             "sale_price": "$5,000",
@@ -128236,15 +128185,6 @@
             "sale_price": "$5,300",
             "sp_lp": "100.0%",
             "sqft": "1,671",
-            "ppsf": "$3/sqft",
-            "beds": 3
-          },
-          {
-            "address": "59 Richardson Road",
-            "sold_date": "6/2/2026",
-            "sale_price": "$6,000",
-            "sp_lp": "100.0%",
-            "sqft": "2,093",
             "ppsf": "$3/sqft",
             "beds": 3
           }
@@ -128277,6 +128217,15 @@
         "SIZE_LABEL": "Spacious (1,800\u20132,500 sqft)",
         "comparable_sales": [
           {
+            "address": "35 Trapelo Road",
+            "sold_date": "6/9/2026",
+            "sale_price": "$5,800",
+            "sp_lp": "100.0%",
+            "sqft": "1,880",
+            "ppsf": "$3/sqft",
+            "beds": 4
+          },
+          {
             "address": "9 Grant",
             "sold_date": "5/18/2026",
             "sale_price": "$6,200",
@@ -128291,15 +128240,6 @@
             "sale_price": "$5,300",
             "sp_lp": "100.0%",
             "sqft": "2,400",
-            "ppsf": "$2/sqft",
-            "beds": 4
-          },
-          {
-            "address": "12 Chester Road",
-            "sold_date": "4/22/2026",
-            "sale_price": "$4,500",
-            "sp_lp": "100.0%",
-            "sqft": "1,947",
             "ppsf": "$2/sqft",
             "beds": 4
           }
@@ -128331,6 +128271,15 @@
         "SIZE_LABEL": "Spacious (1,800\u20132,500 sqft)",
         "comparable_sales": [
           {
+            "address": "35 Trapelo Road",
+            "sold_date": "6/9/2026",
+            "sale_price": "$5,800",
+            "sp_lp": "100.0%",
+            "sqft": "1,880",
+            "ppsf": "$3/sqft",
+            "beds": 4
+          },
+          {
             "address": "9 Grant",
             "sold_date": "5/18/2026",
             "sale_price": "$6,200",
@@ -128347,69 +128296,6 @@
             "sqft": "2,400",
             "ppsf": "$2/sqft",
             "beds": 4
-          },
-          {
-            "address": "12 Chester Road",
-            "sold_date": "4/22/2026",
-            "sale_price": "$4,500",
-            "sp_lp": "100.0%",
-            "sqft": "1,947",
-            "ppsf": "$2/sqft",
-            "beds": 4
-          }
-        ]
-      },
-      {
-        "PROP_TYPE": "RN",
-        "LIST_NO": "73502241",
-        "STATUS": "CTG",
-        "LIST_PRICE": "5800",
-        "STREET_NO": "35",
-        "STREET_NAME": "Trapelo Road",
-        "UNIT_NO": "2",
-        "TOWN_NUM": "43",
-        "ZIP_CODE": "02478",
-        "NO_BEDROOMS": "4",
-        "NO_FULL_BATHS": "2",
-        "SQUARE_FEET": "1880",
-        "BASEMENT": "Y",
-        "WATERFRONT_FLAG": "N",
-        "LIST_PRICE_PER_SQFT": 3.0,
-        "TOWN_NAME": "Belmont",
-        "STATUS_LABEL": "Contingent",
-        "STYLE_LABEL": "",
-        "BASEMENT_LABEL": "Yes",
-        "ADDRESS": "35 Trapelo Road Unit 2",
-        "BED_BATH": "4BR / 2BA",
-        "PRICE_TIER": "Entry-Level (under $500K)",
-        "SIZE_LABEL": "Spacious (1,800\u20132,500 sqft)",
-        "comparable_sales": [
-          {
-            "address": "287 Washington St",
-            "sold_date": "6/8/2026",
-            "sale_price": "$5,000",
-            "sp_lp": "100.0%",
-            "sqft": "2,000",
-            "ppsf": "$2/sqft",
-            "beds": 3
-          },
-          {
-            "address": "35 Trapelo Road",
-            "sold_date": "6/6/2026",
-            "sale_price": "$5,300",
-            "sp_lp": "100.0%",
-            "sqft": "1,671",
-            "ppsf": "$3/sqft",
-            "beds": 3
-          },
-          {
-            "address": "59 Richardson Road",
-            "sold_date": "6/2/2026",
-            "sale_price": "$6,000",
-            "sp_lp": "100.0%",
-            "sqft": "2,093",
-            "ppsf": "$3/sqft",
-            "beds": 3
           }
         ]
       },
@@ -128439,6 +128325,15 @@
         "SIZE_LABEL": "Mid-size (1,200\u20131,800 sqft)",
         "comparable_sales": [
           {
+            "address": "35 Trapelo Road",
+            "sold_date": "6/9/2026",
+            "sale_price": "$5,800",
+            "sp_lp": "100.0%",
+            "sqft": "1,880",
+            "ppsf": "$3/sqft",
+            "beds": 4
+          },
+          {
             "address": "287 Washington St",
             "sold_date": "6/8/2026",
             "sale_price": "$5,000",
@@ -128455,15 +128350,6 @@
             "sqft": "1,671",
             "ppsf": "$3/sqft",
             "beds": 3
-          },
-          {
-            "address": "7 Chester Rd.",
-            "sold_date": "6/2/2026",
-            "sale_price": "$3,400",
-            "sp_lp": "100.0%",
-            "sqft": "1,224",
-            "ppsf": "$3/sqft",
-            "beds": 2
           }
         ]
       },
@@ -128493,6 +128379,15 @@
         "SIZE_LABEL": "Spacious (1,800\u20132,500 sqft)",
         "comparable_sales": [
           {
+            "address": "35 Trapelo Road",
+            "sold_date": "6/9/2026",
+            "sale_price": "$5,800",
+            "sp_lp": "100.0%",
+            "sqft": "1,880",
+            "ppsf": "$3/sqft",
+            "beds": 4
+          },
+          {
             "address": "287 Washington St",
             "sold_date": "6/8/2026",
             "sale_price": "$5,000",
@@ -128507,15 +128402,6 @@
             "sale_price": "$5,300",
             "sp_lp": "100.0%",
             "sqft": "1,671",
-            "ppsf": "$3/sqft",
-            "beds": 3
-          },
-          {
-            "address": "59 Richardson Road",
-            "sold_date": "6/2/2026",
-            "sale_price": "$6,000",
-            "sp_lp": "100.0%",
-            "sqft": "2,093",
             "ppsf": "$3/sqft",
             "beds": 3
           }
@@ -128547,6 +128433,15 @@
         "SIZE_LABEL": "Mid-size (1,200\u20131,800 sqft)",
         "comparable_sales": [
           {
+            "address": "35 Trapelo Road",
+            "sold_date": "6/9/2026",
+            "sale_price": "$5,800",
+            "sp_lp": "100.0%",
+            "sqft": "1,880",
+            "ppsf": "$3/sqft",
+            "beds": 4
+          },
+          {
             "address": "287 Washington St",
             "sold_date": "6/8/2026",
             "sale_price": "$5,000",
@@ -128563,15 +128458,6 @@
             "sqft": "1,671",
             "ppsf": "$3/sqft",
             "beds": 3
-          },
-          {
-            "address": "7 Chester Rd.",
-            "sold_date": "6/2/2026",
-            "sale_price": "$3,400",
-            "sp_lp": "100.0%",
-            "sqft": "1,224",
-            "ppsf": "$3/sqft",
-            "beds": 2
           }
         ]
       },
@@ -128604,6 +128490,15 @@
         "SIZE_LABEL": "Mid-size (1,200\u20131,800 sqft)",
         "comparable_sales": [
           {
+            "address": "35 Trapelo Road",
+            "sold_date": "6/9/2026",
+            "sale_price": "$5,800",
+            "sp_lp": "100.0%",
+            "sqft": "1,880",
+            "ppsf": "$3/sqft",
+            "beds": 4
+          },
+          {
             "address": "287 Washington St",
             "sold_date": "6/8/2026",
             "sale_price": "$5,000",
@@ -128620,15 +128515,6 @@
             "sqft": "1,671",
             "ppsf": "$3/sqft",
             "beds": 3
-          },
-          {
-            "address": "7 Chester Rd.",
-            "sold_date": "6/2/2026",
-            "sale_price": "$3,400",
-            "sp_lp": "100.0%",
-            "sqft": "1,224",
-            "ppsf": "$3/sqft",
-            "beds": 2
           }
         ]
       },
@@ -128716,6 +128602,15 @@
         "SIZE_LABEL": "Mid-size (1,200\u20131,800 sqft)",
         "comparable_sales": [
           {
+            "address": "35 Trapelo Road",
+            "sold_date": "6/9/2026",
+            "sale_price": "$5,800",
+            "sp_lp": "100.0%",
+            "sqft": "1,880",
+            "ppsf": "$3/sqft",
+            "beds": 4
+          },
+          {
             "address": "287 Washington St",
             "sold_date": "6/8/2026",
             "sale_price": "$5,000",
@@ -128730,15 +128625,6 @@
             "sale_price": "$5,300",
             "sp_lp": "100.0%",
             "sqft": "1,671",
-            "ppsf": "$3/sqft",
-            "beds": 3
-          },
-          {
-            "address": "59 Richardson Road",
-            "sold_date": "6/2/2026",
-            "sale_price": "$6,000",
-            "sp_lp": "100.0%",
-            "sqft": "2,093",
             "ppsf": "$3/sqft",
             "beds": 3
           }
@@ -128826,6 +128712,15 @@
         "SIZE_LABEL": "Mid-size (1,200\u20131,800 sqft)",
         "comparable_sales": [
           {
+            "address": "35 Trapelo Road",
+            "sold_date": "6/9/2026",
+            "sale_price": "$5,800",
+            "sp_lp": "100.0%",
+            "sqft": "1,880",
+            "ppsf": "$3/sqft",
+            "beds": 4
+          },
+          {
             "address": "287 Washington St",
             "sold_date": "6/8/2026",
             "sale_price": "$5,000",
@@ -128842,15 +128737,6 @@
             "sqft": "1,671",
             "ppsf": "$3/sqft",
             "beds": 3
-          },
-          {
-            "address": "7 Chester Rd.",
-            "sold_date": "6/2/2026",
-            "sale_price": "$3,400",
-            "sp_lp": "100.0%",
-            "sqft": "1,224",
-            "ppsf": "$3/sqft",
-            "beds": 2
           }
         ]
       },
@@ -128881,6 +128767,15 @@
         "SIZE_LABEL": "Mid-size (1,200\u20131,800 sqft)",
         "comparable_sales": [
           {
+            "address": "35 Trapelo Road",
+            "sold_date": "6/9/2026",
+            "sale_price": "$5,800",
+            "sp_lp": "100.0%",
+            "sqft": "1,880",
+            "ppsf": "$3/sqft",
+            "beds": 4
+          },
+          {
             "address": "287 Washington St",
             "sold_date": "6/8/2026",
             "sale_price": "$5,000",
@@ -128897,15 +128792,6 @@
             "sqft": "1,671",
             "ppsf": "$3/sqft",
             "beds": 3
-          },
-          {
-            "address": "7 Chester Rd.",
-            "sold_date": "6/2/2026",
-            "sale_price": "$3,400",
-            "sp_lp": "100.0%",
-            "sqft": "1,224",
-            "ppsf": "$3/sqft",
-            "beds": 2
           }
         ]
       },
@@ -129314,6 +129200,15 @@
         "SIZE_LABEL": "Mid-size (1,200\u20131,800 sqft)",
         "comparable_sales": [
           {
+            "address": "35 Trapelo Road",
+            "sold_date": "6/9/2026",
+            "sale_price": "$5,800",
+            "sp_lp": "100.0%",
+            "sqft": "1,880",
+            "ppsf": "$3/sqft",
+            "beds": 4
+          },
+          {
             "address": "287 Washington St",
             "sold_date": "6/8/2026",
             "sale_price": "$5,000",
@@ -129330,15 +129225,6 @@
             "sqft": "1,671",
             "ppsf": "$3/sqft",
             "beds": 3
-          },
-          {
-            "address": "7 Chester Rd.",
-            "sold_date": "6/2/2026",
-            "sale_price": "$3,400",
-            "sp_lp": "100.0%",
-            "sqft": "1,224",
-            "ppsf": "$3/sqft",
-            "beds": 2
           }
         ]
       },
@@ -137658,6 +137544,38 @@
       },
       {
         "PROP_TYPE": "RN",
+        "LIST_NO": "73521965",
+        "STATUS": "RNT",
+        "LIST_PRICE": "2995",
+        "SALE_PRICE": "2995",
+        "STREET_NO": "18",
+        "STREET_NAME": "Hyde Park Ave",
+        "UNIT_NO": "6",
+        "TOWN_NUM": "1",
+        "AREA": "007",
+        "ZIP_CODE": "02130",
+        "SETTLED_DATE": "6/9/2026",
+        "NO_BEDROOMS": "3",
+        "NO_FULL_BATHS": "1",
+        "SQUARE_FEET": "1000",
+        "LOT_SIZE": "9999",
+        "WATERFRONT_FLAG": "N",
+        "SP_LP_RATIO": 100.0,
+        "LIST_PRICE_PER_SQFT": 3.0,
+        "SALE_PRICE_PER_SQFT": 3.0,
+        "TOWN_NAME": "Boston",
+        "STATUS_LABEL": "RNT",
+        "STYLE_LABEL": "",
+        "BASEMENT_LABEL": "",
+        "NEIGHBORHOOD": "007",
+        "ADDRESS": "18 Hyde Park Ave Unit 6",
+        "BED_BATH": "3BR / 1BA",
+        "PRICE_TIER": "Entry-Level (under $500K)",
+        "VS_ASK": "At or near ask (100.0%)",
+        "SIZE_LABEL": "Compact (800\u20131,200 sqft)"
+      },
+      {
+        "PROP_TYPE": "RN",
         "LIST_NO": "73524148",
         "STATUS": "RNT",
         "LIST_PRICE": "2800",
@@ -141894,35 +141812,33 @@
       },
       {
         "PROP_TYPE": "RN",
-        "LIST_NO": "73516580",
+        "LIST_NO": "73502241",
         "STATUS": "RNT",
-        "LIST_PRICE": "7100",
-        "SALE_PRICE": "7100",
-        "STREET_NO": "30",
-        "STREET_NAME": "Gloucester Street",
-        "UNIT_NO": "4",
-        "TOWN_NUM": "1",
-        "AREA": "101",
-        "ZIP_CODE": "02115",
-        "SETTLED_DATE": "6/4/2026",
-        "NO_BEDROOMS": "3",
-        "NO_FULL_BATHS": "3",
-        "SQUARE_FEET": "1757",
-        "LOT_SIZE": "4104",
+        "LIST_PRICE": "5800",
+        "SALE_PRICE": "5800",
+        "STREET_NO": "35",
+        "STREET_NAME": "Trapelo Road",
+        "UNIT_NO": "2",
+        "TOWN_NUM": "43",
+        "ZIP_CODE": "02478",
+        "SETTLED_DATE": "6/9/2026",
+        "NO_BEDROOMS": "4",
+        "NO_FULL_BATHS": "2",
+        "SQUARE_FEET": "1880",
+        "BASEMENT": "Y",
         "WATERFRONT_FLAG": "N",
         "SP_LP_RATIO": 100.0,
-        "LIST_PRICE_PER_SQFT": 4.0,
-        "SALE_PRICE_PER_SQFT": 4.0,
-        "TOWN_NAME": "Boston",
+        "LIST_PRICE_PER_SQFT": 3.0,
+        "SALE_PRICE_PER_SQFT": 3.0,
+        "TOWN_NAME": "Belmont",
         "STATUS_LABEL": "RNT",
         "STYLE_LABEL": "",
-        "BASEMENT_LABEL": "",
-        "NEIGHBORHOOD": "101",
-        "ADDRESS": "30 Gloucester Street Unit 4",
-        "BED_BATH": "3BR / 3BA",
+        "BASEMENT_LABEL": "Yes",
+        "ADDRESS": "35 Trapelo Road Unit 2",
+        "BED_BATH": "4BR / 2BA",
         "PRICE_TIER": "Entry-Level (under $500K)",
         "VS_ASK": "At or near ask (100.0%)",
-        "SIZE_LABEL": "Mid-size (1,200\u20131,800 sqft)"
+        "SIZE_LABEL": "Spacious (1,800\u20132,500 sqft)"
       },
       {
         "PROP_TYPE": "RN",
